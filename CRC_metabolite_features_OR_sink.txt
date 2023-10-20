@@ -1,0 +1,1171 @@
+ [1] "Metabolite.name"                                    "HMDB.number"                                        "Reported.mass"                                     
+ [4] "MIM"                                                "RT..Sec."                                           "mode"                                              
+ [7] "Adduct"                                             "Prominent.MS2.fragments.with.possible.fragment.IDs" "Study"                                             
+[10] "Prospective"                                        "Biospecimen"                                        "Chemical.formula"                                  
+[13] "Kommentar"                                          "hMIM"                                               "hWarn"                                             
+[16] "hError"                                            
+[1] 127
+[1] 59
+[1] 287
+
+Hit: D-Ribulose 5-phosphate_mzNeg - Feature: 210.994364807223_155.4644989408 - Nr: 1145
+Hit: D-Ribose 5-phosphate_mzNeg - Feature: 210.994364807223_155.4644989408 - Nr: 1145
+Hit: Xylulose 5-phosphate_mzNeg - Feature: 210.994364807223_155.4644989408 - Nr: 1145
+Hit: Ribose 1-phosphate_mzNeg - Feature: 210.994364807223_155.4644989408 - Nr: 1145
+Hit: Glycyl-Phenylalanine_mzNeg - Feature: 221.081934345434_255.683367831992 - Nr: 1300
+Hit: Glycyl-Phenylalanine_mzNeg - Feature: 221.08260176329_311.458860482799 - Nr: 1490
+Hit: Prolylphenylalanine_mzNeg - Feature: 243.116884629774_334.559954147637 - Nr: 1640
+Hit: Leukotriene A4_mzNeg - Feature: 363.215677740774_388.677143738553 - Nr: 2012
+Hit: Leukotriene A4_mzNeg - Feature: 363.215272937475_395.691055388188 - Nr: 2094
+Hit: 2,3-Dinor-6-keto-prostaglandin F1 a_mzNeg - Feature: 387.215461885316_396.070423247354 - Nr: 2112
+Hit: Sebacic acid_mzNeg - Feature: 201.113265182864_264.015769276792 - Nr: 1314
+Hit: Sebacic acid_mzNeg - Feature: 201.113433405311_291.149489566911 - Nr: 1398
+Hit: Tetrahydrocortisol_mzNeg - Feature: 411.238484621685_323.168438198157 - Nr: 1542
+Hit: MG(0:0/14:1(9Z)/0:0)_mzNeg - Feature: 345.243342935125_396.997177673425 - Nr: 2121
+Hit: MG(0:0/14:1(9Z)/0:0)_mzNeg - Feature: 345.243723876119_409.592529190094 - Nr: 2397
+Hit: Prostaglandin E3_mzNeg - Feature: 395.220744543475_423.94826768374 - Nr: 2831
+Hit: DG(8:0/18:0/0:0)_mzNeg - Feature: 529.423850935082_421.165681350672 - Nr: 2715
+Hit: PA(16:0/16:0)_mzNeg - Feature: 629.454270846973_425.585338345344 - Nr: 2873
+Hit: 9,12,13-TriHOME_mzNeg - Feature: 329.239701920526_423.8746767049 - Nr: 2827
+Hit: DG(15:0/18:2(9Z,12Z)/0:0)_mzNeg - Feature: 559.471330664639_437.267695148688 - Nr: 3238boundary (singular) fit: see help('isSingular')
+
+Hit: 9,10,13-TriHOME_mzNeg - Feature: 329.239701920526_423.8746767049 - Nr: 2827
+Hit: 5,8,11-Eicosatrienoic acid_mzNeg - Feature: 305.239919464191_425.192018999131 - Nr: 2864
+Hit: Adrenic acid_mzNeg - Feature: 331.255280305964_429.53062838162 - Nr: 2977
+Hit: Dextrorphan O-glucuronide_mzNeg - Feature: 414.194885892744_419.086528914321 - Nr: 2678
+Hit: (R)-3-Hydroxy-5-phenylpentanoic acid_mzNeg - Feature: 239.092873529338_324.898807099302 - Nr: 1566
+Hit: 3 Hydroxyquinine_mzNeg - Feature: 385.168336129376_296.166364892947 - Nr: 1429
+Hit: perttula_1_mzNeg - Feature: 391.285490441578_376.891826233611 - Nr: 1945boundary (singular) fit: see help('isSingular')
+
+Hit: perttula_6_mzNeg - Feature: 551.182162520525_427.04612305956 - Nr: 2939
+Hit: creatinine_mzPos - Feature: 114.066151384715_41.6813741453965 - Nr: 489
+Hit: creatinine_mzPos - Feature: 114.06599428718_55.9539654203045 - Nr: 603
+Hit: Argininosuccinic acid                                                        _mzPos - Feature: 273.109623515269_323.993190753685 - Nr: 1556
+Hit: Argininosuccinic acid                                                        _mzPos - Feature: 273.109548080935_329.890887718777 - Nr: 1603
+Hit: Argininosuccinic acid                                                        _mzPos - Feature: 273.109470126229_358.018554648339 - Nr: 1905
+Hit: D-Glucose_mzPos - Feature: 181.072267173937_137.761522351778 - Nr: 801
+Hit: D-Glucose_mzPos - Feature: 181.072133181407_156.100511423815 - Nr: 872
+Hit: Prolylhydroxyproline_mzPos - Feature: 211.109035356874_383.280079842324 - Nr: 2218
+Hit: gamma-Glutamylglycine_mzPos - Feature: 205.083365905179_259.009686346959 - Nr: 1277
+Hit: Asparaginyl-Threonine_mzPos - Feature: 234.113837456761_338.599126824058 - Nr: 1665
+Hit: Threoninyl-Histidine_mzPos - Feature: 257.135768480639_261.922737228372 - Nr: 1290
+Hit: Leucyl-Glutamate_mzPos - Feature: 243.134843665344_381.270066069542 - Nr: 2200
+Hit: Phenylalanyl-Hydroxyproline_mzPos - Feature: 261.12751037692_378.982141890255 - Nr: 2171
+Hit: 3-Sulfodeoxycholic acid_mzPos - Feature: 441.252840817735_439.421699663316 - Nr: 3669
+Hit: Prostaglandin E2_mzPos - Feature: 353.22967280465_342.718689656028 - Nr: 1697
+Hit: Prostaglandin E2_mzPos - Feature: 353.229685161505_359.480923853321 - Nr: 1915
+Hit: Prostaglandin E2_mzPos - Feature: 353.229534744313_380.698347564568 - Nr: 2193
+Hit: LysoPC(20:3(5Z,8Z,11Z))_mzPos - Feature: 546.354189567518_411.827884726293 - Nr: 2789
+Hit: LysoPC(20:3(5Z,8Z,11Z))_mzPos - Feature: 546.353025900225_426.778745900949 - Nr: 3406
+Hit: LysoPC(20:3(5Z,8Z,11Z))_mzPos - Feature: 546.353056122932_455.007986261504 - Nr: 3806
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_mzPos - Feature: 355.283848453926_395.375736272028 - Nr: 2396
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_mzPos - Feature: 395.276818817938_395.70287866833 - Nr: 2400
+Hit: 3-Hydroxy-9-hexadecenoylcarnitine_mzPos - Feature: 414.326218195908_345.505705428708 - Nr: 1711
+Hit: 3-Hydroxy-9-hexadecenoylcarnitine_mzPos - Feature: 414.326534029663_431.021603410513 - Nr: 3483
+Hit: 3-Hexaprenyl-4-hydroxybenzoic acid_mzPos - Feature: 529.406617471572_449.301531379644 - Nr: 3776
+Hit: 2'-Apo-beta-carotenal_mzPos - Feature: 509.378941448828_426.187176781705 - Nr: 3370
+Hit: Adlupone_mzPos - Feature: 483.362599354533_423.715581962963 - Nr: 3329
+Hit: 2-Oxoarginine_mzPos - Feature: 174.091069824727_148.09601377692 - Nr: 856
+Hit: 2,3-dinor-8-iso-PGF2α_M+H_calc_pos - Feature: 327.216110201453_330.76866811243 - Nr: 1611
+Hit: 13-HODE_M+H_calc_pos - Feature: 297.24075734032_403.89199599422 - Nr: 2532
+Hit: 13-HODE_M+H_calc_pos - Feature: 297.240054773399_415.397517260786 - Nr: 3090
+Hit: 13-HODE_M+Na_calc_pos - Feature: 319.224303597463_398.280299065948 - Nr: 2434
+Hit: 13-HODE_M+ACN+H_calc_pos - Feature: 338.266629203527_399.903857826995 - Nr: 2485boundary (singular) fit: see help('isSingular')
+
+Hit: 13-HODE_M-H2O+H_calc_pos - Feature: 313.236526522328_343.407361256064 - Nr: 1704
+Hit: 19-HETE_M+H_calc_pos - Feature: 321.240086846702_405.453175025495 - Nr: 2561
+Hit: 19-HETE_M+H_calc_pos - Feature: 321.240327831542_436.047987377576 - Nr: 3561
+Hit: 19-HETE_M+NH4_calc_pos - Feature: 338.266629203527_399.903857826995 - Nr: 2485boundary (singular) fit: see help('isSingular')
+
+Hit: 19-HETE_M+Na_calc_pos - Feature: 343.22346372936_396.680640655236 - Nr: 2408
+Hit: 19-HETE_M+Na_calc_pos - Feature: 343.221837839799_420.690401002928 - Nr: 3270
+Hit: 19-HETE_M+ACN+H_calc_pos - Feature: 362.272159360811_435.412419924304 - Nr: 3513
+Hit: 9-HODE_M+H_calc_pos - Feature: 297.24075734032_403.89199599422 - Nr: 2532
+Hit: 9-HODE_M+H_calc_pos - Feature: 297.240054773399_415.397517260786 - Nr: 3090
+Hit: 9-HODE_M+Na_calc_pos - Feature: 319.224303597463_398.280299065948 - Nr: 2434
+Hit: 9-HODE_M+ACN+H_calc_pos - Feature: 338.266629203527_399.903857826995 - Nr: 2485boundary (singular) fit: see help('isSingular')
+
+Hit: 9-HODE_M-H2O+H_calc_pos - Feature: 313.236526522328_343.407361256064 - Nr: 1704
+Hit: 12-keto-LTB4_M+H_calc_pos - Feature: 335.219050505375_369.94085314131 - Nr: 2035
+Hit: 12-keto-LTB4_M+NH4_calc_pos - Feature: 352.246023986445_406.926140439547 - Nr: 2621
+Hit: 12-keto-LTB4_M+Na_calc_pos - Feature: 357.201644298644_376.461223416304 - Nr: 2081
+Hit: hypoxanthine_M+H_calc_pos - Feature: 137.045726336213_57.1269788932202 - Nr: 674
+Hit: hypoxanthine_M+H_calc_pos - Feature: 137.045588792656_74.505861178535 - Nr: 704
+Hit: hypoxanthine_M+Na_calc_pos - Feature: 159.027201077104_57.1181654996823 - Nr: 673
+Hit: hypoxanthine_M+K_calc_pos - Feature: 175.000813294262_56.7130639116204 - Nr: 615
+Hit: phenylalanine_M+H_calc_pos - Feature: 166.086130681471_122.260451976589 - Nr: 773
+Hit: phenylalanine_M-H2O+H_calc_pos - Feature: 182.081123089225_57.0342485744587 - Nr: 650
+Hit: phenylalanine_M-H2O+H_calc_pos - Feature: 182.081118205348_80.1460404548438 - Nr: 713
+Hit: phosphoethanolamine_M+CH3OH+H_calc_pos - Feature: 174.052596416861_137.67166130557 - Nr: 798boundary (singular) fit: see help('isSingular')
+
+Hit: creatinine_M+H_calc_pos - Feature: 114.066151384715_41.6813741453965 - Nr: 489
+Hit: creatinine_M+H_calc_pos - Feature: 114.06599428718_55.9539654203045 - Nr: 603
+Hit: creatinine_M+Na_calc_pos - Feature: 136.04821416144_41.1581944138301 - Nr: 485
+Hit: creatinine_M+K_calc_pos - Feature: 152.022501408765_41.1041456143252 - Nr: 483
+Hit: octadecanoylcarnitine_M+H_calc_pos - Feature: 429.376464155556_382.867014645719 - Nr: 2212
+Hit: octadecanoylcarnitine_M+Na_calc_pos - Feature: 451.360963107717_446.878648327263 - Nr: 3732
+Hit: arginine_M+H_calc_pos - Feature: 175.11894849785_39.1558960746584 - Nr: 453
+Hit: arginine_M+Na_calc_pos - Feature: 197.100798838417_37.6643477365911 - Nr: 446
+Hit: arginine_M+K_calc_pos - Feature: 213.07301595316_166.481142079232 - Nr: 899
+Hit: arginine_M-H2O+H_calc_pos - Feature: 191.115087359517_222.336554703465 - Nr: 1123
+Hit: aspartate_M+CH3OH+H_calc_pos - Feature: 166.071700235083_57.1482264330863 - Nr: 677
+Hit: valine_M+H_calc_pos - Feature: 118.086413576838_10.3610150064102 - Nr: 2
+Hit: valine_M+H_calc_pos - Feature: 118.08642234546_27.6089883203931 - Nr: 4
+Hit: valine_M+H_calc_pos - Feature: 118.086426562824_42.4362860498885 - Nr: 502
+Hit: valine_M+H_calc_pos - Feature: 118.08636894872_55.1634926933563 - Nr: 596
+Hit: valine_M+H_calc_pos - Feature: 118.086361616844_160.631836076597 - Nr: 890
+Hit: valine_M+H_calc_pos - Feature: 118.08638115807_177.661547411149 - Nr: 921
+Hit: valine_M+H_calc_pos - Feature: 118.086377355753_196.539415411194 - Nr: 1022
+Hit: valine_M+H_calc_pos - Feature: 118.086227263636_345.087341525433 - Nr: 1710
+Hit: valine_M+Na_calc_pos - Feature: 140.068251492606_34.2489630998105 - Nr: 39
+Hit: valine_M+Na_calc_pos - Feature: 140.068344109442_41.7654980149092 - Nr: 490
+Hit: valine_M+K_calc_pos - Feature: 156.042173190985_35.6500006786026 - Nr: 40
+Hit: Homocysteine _M+ACN+H_calc_pos - Feature: 177.069927691783_364.523548732904 - Nr: 1965
+Hit: methylmalonic acid_M+CH3OH+H_calc_pos - Feature: 151.060986244895_56.979588741494 - Nr: 636
+Hit: methylmalonic acid_M+CH3OH+H_calc_pos - Feature: 151.059394941586_115.219740087659 - Nr: 759
+Hit: 5-methyltetrahydrofolate_M+K_calc_pos - Feature: 498.153377524036_354.674497510086 - Nr: 1855
+Hit: Methionine _M+H_calc_pos - Feature: 150.058233155448_57.0515975818002 - Nr: 658
+Hit: Methionine _M+NH4_calc_pos - Feature: 167.085317344883_364.572175384656 - Nr: 1967
+Hit: Methionine _M+Na_calc_pos - Feature: 172.040565587875_56.9966779410066 - Nr: 641
+Hit: Methionine _M-H2O+H_calc_pos - Feature: 166.053788716397_188.978230779685 - Nr: 980
+Hit: symmetric dimethylarginine _M+H_calc_pos - Feature: 203.15021001152_42.52485412464 - Nr: 504
+Hit: symmetric dimethylarginine _M+Na_calc_pos - Feature: 225.131398688528_316.269374826959 - Nr: 1513
+Hit: symmetric dimethylarginine _M+K_calc_pos - Feature: 241.10428975129_233.184137827841 - Nr: 1166
+Hit: Vitamin B6 - Pyridoxine?_M+ACN+H_calc_pos - Feature: 211.109035356874_383.280079842324 - Nr: 2218
+Hit: Cystathionine_M+H_calc_pos - Feature: 223.075276112202_364.522539370823 - Nr: 1964
+Hit: Cystathionine_M+NH4_calc_pos - Feature: 240.102072176195_97.6666665316023 - Nr: 733
+Hit: Cystathionine_M+NH4_calc_pos - Feature: 240.101912362581_111.813525695071 - Nr: 758
+Hit: Cystathionine_M-H2O+H_calc_pos - Feature: 239.071119285552_189.397507752959 - Nr: 991
+Hit: asymmetric dimethylarginine _M+H_calc_pos - Feature: 203.15021001152_42.52485412464 - Nr: 504
+Hit: asymmetric dimethylarginine _M+Na_calc_pos - Feature: 225.131398688528_316.269374826959 - Nr: 1513
+Hit: asymmetric dimethylarginine _M+K_calc_pos - Feature: 241.10428975129_233.184137827841 - Nr: 1166
+Hit: Cyclic adenosine monophosphate_M+NH4_calc_pos - Feature: 347.087440247793_228.092913685251 - Nr: 1157
+Hit: 7-Methylguanosine 5'-phosphate_M+2H_calc_pos - Feature: 190.049724135108_175.499743555041 - Nr: 913
+Hit: Deoxyadenosine monophosphate_M+CH3OH+H_calc_pos - Feature: 364.098261241826_377.137391818359 - Nr: 2145
+Hit: Homo-L-arginine_M-H2O+H_calc_pos - Feature: 205.130873368168_250.056273060987 - Nr: 1224
+Hit: L-Tryptophan_M+H_calc_pos - Feature: 205.097084947514_147.757306925239 - Nr: 842
+Hit: L-Tryptophan_M+Na_calc_pos - Feature: 227.079321983808_147.808692743123 - Nr: 850
+Hit: 5,6-Dihydrouridine_M+2H_calc_pos - Feature: 124.050413524494_156.125567663535 - Nr: 873
+Hit: 5,6-Dihydrouridine_M+H_calc_pos - Feature: 247.094033165014_301.365514924147 - Nr: 1448
+Hit: 5,6-Dihydrouridine_M+NH4_calc_pos - Feature: 264.120764691659_225.056915501592 - Nr: 1136
+Hit: 5,6-Dihydrouridine_M+NH4_calc_pos - Feature: 264.120748281157_265.674045018803 - Nr: 1310
+Hit: 5,6-Dihydrouridine_M+ACN+H_calc_pos - Feature: 288.120291950304_187.425631270666 - Nr: 977
+Hit: 5,6-Dihydrouridine_M-H2O+H_calc_pos - Feature: 263.08890229303_203.005907243257 - Nr: 1046
+Hit: 5,6-Dihydrouridine_M-H2O+H_calc_pos - Feature: 263.089046004194_327.951307811318 - Nr: 1591
+Hit: D-Glucose_M+H_calc_pos - Feature: 181.072267173937_137.761522351778 - Nr: 801
+Hit: D-Glucose_M+H_calc_pos - Feature: 181.072133181407_156.100511423815 - Nr: 872
+Hit: D-Glucose_M+Na_calc_pos - Feature: 203.052755906169_42.7861649077579 - Nr: 507
+Hit: D-Glucose_M+Na_calc_pos - Feature: 203.052591048813_52.1455829145053 - Nr: 584
+Hit: D-Glucose_M+Na_calc_pos - Feature: 203.052446101755_70.2412534218494 - Nr: 702
+Hit: D-Glucose_M+Na_calc_pos - Feature: 203.053687382017_163.191288514314 - Nr: 893
+Hit: D-Glucose_M+Na_calc_pos - Feature: 203.051239600691_180.415502813842 - Nr: 929
+Hit: D-Glucose_M+K_calc_pos - Feature: 219.026569065431_43.0501121240319 - Nr: 510
+Hit: Nicotinamide riboside_M+CH3OH+H_calc_pos - Feature: 288.129814620974_362.387110141928 - Nr: 1939
+Hit: Alanyl-Hydroxyproline_M+CH3OH+H_calc_pos - Feature: 235.130434019036_270.049098108081 - Nr: 1339
+Hit: Glycyl-Phenylalanine_M+CH3OH+H_calc_pos - Feature: 255.135400957742_366.842360685738 - Nr: 2004
+Hit: Glycyl-Phenylalanine_M+ACN+H_calc_pos - Feature: 264.135128005103_309.188835438801 - Nr: 1492
+Hit: Prolylhydroxyproline_M+H_calc_pos - Feature: 229.119732378573_314.411503139747 - Nr: 1506
+Hit: Prolylhydroxyproline_M-H2O+H_calc_pos - Feature: 245.116944019318_309.092934463763 - Nr: 1489
+Hit: Pimelylcarnitine_M+NH4_calc_pos - Feature: 321.203410419497_385.486948789485 - Nr: 2255
+Hit: Tyrosyl-Glycine_M+2H_calc_pos - Feature: 120.055350850764_200.137616005553 - Nr: 1040boundary (singular) fit: see help('isSingular')
+
+Hit: gamma-Glutamylglycine_M+H_calc_pos - Feature: 205.083365905179_259.009686346959 - Nr: 1277
+Hit: gamma-Glutamylglycine_M+Na_calc_pos - Feature: 227.063938869237_357.46528114579 - Nr: 1899
+Hit: gamma-Glutamylglycine_M+ACN+H_calc_pos - Feature: 246.110010072875_35.6675868786321 - Nr: 41
+Hit: Alanyl-Cysteine_M+CH3OH+H_calc_pos - Feature: 225.091557569686_350.696039644251 - Nr: 1745
+Hit: Alanyl-Cysteine_M-H2O+H_calc_pos - Feature: 209.05981651588_318.302986824278 - Nr: 1524
+Hit: Aspartyl-Glycine_M+CH3OH+H_calc_pos - Feature: 223.094351312919_239.475839859356 - Nr: 1188
+Hit: Aspartyl-Glycine_M-H2O+H_calc_pos - Feature: 207.064792802287_267.803725067946 - Nr: 1326
+Hit: Prolyl-Threonine_M+CH3OH+H_calc_pos - Feature: 249.145682483201_349.826701575175 - Nr: 1740
+Hit: Prolyl-Threonine_M-H2O+H_calc_pos - Feature: 233.11456735963_256.248563875618 - Nr: 1263
+Hit: Arginyl-Aspartic acid_M+Na_calc_pos - Feature: 312.129391084615_366.360788441237 - Nr: 1998
+Hit: Cysteinyl-Isoleucine_M-H2O+H_calc_pos - Feature: 251.10586239485_365.721764503537 - Nr: 1991
+Hit: Asparaginyl-Threonine_M-H2O+H_calc_pos - Feature: 250.105990976834_176.287654369105 - Nr: 915
+Hit: Asparaginyl-Threonine_M-H2O+H_calc_pos - Feature: 250.105203057038_235.262263240904 - Nr: 1178
+Hit: Arginyl-Hydroxyproline_M+ACN+H_calc_pos - Feature: 329.192771001943_279.683979697651 - Nr: 1381
+Hit: Threoninyl-Tryptophan_M+CH3OH+H_calc_pos - Feature: 338.170983016172_428.857735813831 - Nr: 3457
+Hit: Alanyl-Histidine_M+NH4_calc_pos - Feature: 244.141947058051_232.432600553849 - Nr: 1165
+Hit: Leucyl-Threonine_M+NH4_calc_pos - Feature: 250.177755548381_327.194464900269 - Nr: 1572
+Hit: Leucyl-Threonine_M+NH4_calc_pos - Feature: 250.1779462594_434.190605957894 - Nr: 3499
+Hit: Leucyl-Threonine_M+CH3OH+H_calc_pos - Feature: 265.177251463898_363.205302593474 - Nr: 1945
+Hit: Leucyl-Threonine_M+CH3OH+H_calc_pos - Feature: 265.177106035099_392.618354450189 - Nr: 2373
+Hit: Leucyl-Threonine_M-H2O+H_calc_pos - Feature: 249.145682483201_349.826701575175 - Nr: 1740
+Hit: Aspartyl-Valine_M+H_calc_pos - Feature: 233.11456735963_256.248563875618 - Nr: 1263
+Hit: Aspartyl-Valine_M+CH3OH+H_calc_pos - Feature: 265.140793302372_283.532100548979 - Nr: 1390
+Hit: Aspartyl-Valine_M-H2O+H_calc_pos - Feature: 249.109591576711_179.939572325844 - Nr: 925
+Hit: Aspartyl-Valine_M-H2O+H_calc_pos - Feature: 249.109940844899_214.62523582234 - Nr: 1101
+Hit: Phenylalanylproline_M+H_calc_pos - Feature: 263.138790497577_184.267751945977 - Nr: 957
+Hit: Phenylalanylproline_M+CH3OH+H_calc_pos - Feature: 295.16585650676_390.828832060251 - Nr: 2342
+Hit: Cysteinyl-Glutamate_M+H_calc_pos - Feature: 251.067582069995_156.173087313307 - Nr: 875
+Hit: Cysteinyl-Glutamate_M+H_calc_pos - Feature: 251.070250753878_364.362155601105 - Nr: 1954
+Hit: Asparaginyl-Tryptophan_M+2H_calc_pos - Feature: 160.075260590632_93.4639180430755 - Nr: 728
+Hit: Histidinyl-Lysine_M+ACN+H_calc_pos - Feature: 325.197964011368_348.193335257854 - Nr: 1735
+Hit: Aspartyl-Histidine_M+NH4_calc_pos - Feature: 288.129814620974_362.387110141928 - Nr: 1939
+Hit: Aspartyl-Histidine_M+Na_calc_pos - Feature: 293.084502881626_180.02721638557 - Nr: 926
+Hit: Aspartyl-Histidine_M+ACN+H_calc_pos - Feature: 312.129391084615_366.360788441237 - Nr: 1998
+Hit: Aspartyl-Histidine_M-H2O+H_calc_pos - Feature: 287.100401580609_181.52946490538 - Nr: 948
+Hit: Threoninyl-Histidine_M+2H_calc_pos - Feature: 129.065944816898_43.4124226626099 - Nr: 513
+Hit: Threoninyl-Histidine_M+2H_calc_pos - Feature: 129.065741808909_54.6660820138316 - Nr: 592
+Hit: Phenylalanyl-Glycine_M+CH3OH+H_calc_pos - Feature: 255.135400957742_366.842360685738 - Nr: 2004
+Hit: Phenylalanyl-Glycine_M+ACN+H_calc_pos - Feature: 264.135128005103_309.188835438801 - Nr: 1492
+Hit: Hydroxyprolyl-Gamma-glutamate_M+CH3OH+H_calc_pos - Feature: 292.152281798562_313.951944409357 - Nr: 1503
+Hit: Hydroxyprolyl-Gamma-glutamate_M-H2O+H_calc_pos - Feature: 276.12067989224_236.780132689044 - Nr: 1183
+Hit: Asparaginyl-Asparagine_M+CH3OH+H_calc_pos - Feature: 279.129998435337_229.991084180828 - Nr: 1161
+Hit: Asparaginyl-Asparagine_M+ACN+H_calc_pos - Feature: 288.129814620974_362.387110141928 - Nr: 1939
+Hit: Glutamyltryptophan_M+H_calc_pos - Feature: 334.141466531896_370.277621940454 - Nr: 2039
+Hit: Histidinyl-Valine_M+K_calc_pos - Feature: 293.09964526329_226.065606637686 - Nr: 1143
+Hit: Arginyl-Phenylalanine_M+NH4_calc_pos - Feature: 339.21379750717_350.552211202224 - Nr: 1742
+Hit: Arginyl-Phenylalanine_M+ACN+H_calc_pos - Feature: 363.216579085909_303.380060712752 - Nr: 1458
+Hit: Arginyl-Phenylalanine_M+ACN+H_calc_pos - Feature: 363.214270987292_374.668502077227 - Nr: 2061
+Hit: Arginyl-Phenylalanine_M+ACN+H_calc_pos - Feature: 363.214565492982_398.199712709546 - Nr: 2430
+Hit: Leucyl-phenylalanine_M+H_calc_pos - Feature: 279.169527360603_209.350168032648 - Nr: 1079
+Hit: Leucyl-phenylalanine_M-H2O+H_calc_pos - Feature: 295.16585650676_390.828832060251 - Nr: 2342
+Hit: gamma-Glutamylleucine_M+CH3OH+H_calc_pos - Feature: 293.172092912791_395.473267403719 - Nr: 2397
+Hit: gamma-Glutamylleucine_M-H2O+H_calc_pos - Feature: 277.141094621478_327.598797750799 - Nr: 1579
+Hit: gamma-Glutamylleucine_M-H2O+H_calc_pos - Feature: 277.140706494198_456.464322520343 - Nr: 3865
+Hit: Lysyl-Gamma-glutamate_M-H2O+H_calc_pos - Feature: 291.16702843959_288.816746674702 - Nr: 1411
+Hit: Leucyl-Glutamate_M+CH3OH+H_calc_pos - Feature: 293.172092912791_395.473267403719 - Nr: 2397
+Hit: Leucyl-Glutamate_M-H2O+H_calc_pos - Feature: 277.141094621478_327.598797750799 - Nr: 1579
+Hit: Leucyl-Glutamate_M-H2O+H_calc_pos - Feature: 277.140706494198_456.464322520343 - Nr: 3865
+Hit: Histidinyl-Alanine_M+NH4_calc_pos - Feature: 244.141947058051_232.432600553849 - Nr: 1165
+Hit: Prolylphenylalanine_M+H_calc_pos - Feature: 263.138790497577_184.267751945977 - Nr: 957
+Hit: Prolylphenylalanine_M+CH3OH+H_calc_pos - Feature: 295.16585650676_390.828832060251 - Nr: 2342
+Hit: gamma-Glutamylthreonine_M+H_calc_pos - Feature: 249.109591576711_179.939572325844 - Nr: 925
+Hit: gamma-Glutamylthreonine_M+H_calc_pos - Feature: 249.109940844899_214.62523582234 - Nr: 1101
+Hit: gamma-Glutamylthreonine_M+Na_calc_pos - Feature: 271.092669613217_104.333024526634 - Nr: 748
+Hit: gamma-Glutamylthreonine_M+K_calc_pos - Feature: 287.063936409185_189.440290427412 - Nr: 994
+Hit: gamma-Glutamylthreonine_M-H2O+H_calc_pos - Feature: 265.104850336342_271.615107788167 - Nr: 1351
+Hit: Phenylalanyl-Hydroxyproline_M+ACN+H_calc_pos - Feature: 320.160841032458_172.078753777009 - Nr: 907
+Hit: 7-Sulfocholic acid_M+CH3OH+H_calc_pos - Feature: 521.273167533354_392.674553245524 - Nr: 2377
+Hit: 6-Keto-prostaglandin F1a_M+H_calc_pos - Feature: 371.240009371086_352.039944993072 - Nr: 1763
+Hit: 6-Keto-prostaglandin F1a_M+H_calc_pos - Feature: 371.239906757763_387.284752707774 - Nr: 2267
+Hit: Leukotriene A4_M+H_calc_pos - Feature: 319.224303597463_398.280299065948 - Nr: 2434
+Hit: Leukotriene A4_M+NH4_calc_pos - Feature: 336.250417233327_385.287780149509 - Nr: 2250
+Hit: Leukotriene A4_M+Na_calc_pos - Feature: 341.207993621776_389.341740052528 - Nr: 2311boundary (singular) fit: see help('isSingular')
+
+Hit: Leukotriene A4_M+Na_calc_pos - Feature: 341.207540158355_398.839285437657 - Nr: 2447
+Hit: 3,17-Androstanediol glucuronide_M+ACN+H_calc_pos - Feature: 510.303384866077_174.726501473389 - Nr: 912boundary (singular) fit: see help('isSingular')
+
+Hit: 18-Hydroxycortisol_M+H_calc_pos - Feature: 379.208356506499_389.877526089651 - Nr: 2318
+Hit: 18-Hydroxycortisol_M+Na_calc_pos - Feature: 401.196416994475_401.120332003982 - Nr: 2505
+Hit: 2,3-Dinor-6-keto-prostaglandin F1 a_M+H_calc_pos - Feature: 343.208769195928_361.807657779313 - Nr: 1934boundary (singular) fit: see help('isSingular')
+
+Hit: Prostaglandin I2_M+H_calc_pos - Feature: 353.22967280465_342.718689656028 - Nr: 1697
+Hit: Prostaglandin I2_M+H_calc_pos - Feature: 353.229685161505_359.480923853321 - Nr: 1915
+Hit: Prostaglandin I2_M+H_calc_pos - Feature: 353.229534744313_380.698347564568 - Nr: 2193
+Hit: Prostaglandin I2_M+Na_calc_pos - Feature: 375.212981250451_347.222275717501 - Nr: 1728
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M+2H_calc_pos - Feature: 242.134060548488_324.779404326171 - Nr: 1564
+Hit: 13,14-Dihydro PGF2a_M+K_calc_pos - Feature: 395.219937153889_435.880884555959 - Nr: 3552
+Hit: 14,15-DiHETrE_M+H_calc_pos - Feature: 339.250424356001_406.951236362251 - Nr: 2624
+Hit: 14,15-DiHETrE_M+NH4_calc_pos - Feature: 356.279433747349_334.442025049322 - Nr: 1641
+Hit: 14,15-DiHETrE_M+CH3OH+H_calc_pos - Feature: 371.276333163023_402.24752398999 - Nr: 2517
+Hit: 17 HDoHE_M+NH4_calc_pos - Feature: 362.272159360811_435.412419924304 - Nr: 3513
+Hit: 17 HDoHE_M+CH3OH+H_calc_pos - Feature: 377.265942271038_418.49790660323 - Nr: 3212
+Hit: Leukotriene B4_M+2H_calc_pos - Feature: 169.122093418045_305.206776071617 - Nr: 1474
+Hit: 12a-Hydroxy-3-oxocholadienic acid_M+CH3OH+H_calc_pos - Feature: 419.276514456092_408.506918576697 - Nr: 2731
+Hit: 11'-Carboxy-gamma-tocotrienol_M+Na_calc_pos - Feature: 423.251596184945_455.750689416243 - Nr: 3858
+Hit: 16-A-Hydroxypregnenolone_M+CH3OH+H_calc_pos - Feature: 365.266158862938_422.567988687852 - Nr: 3300
+Hit: Tauroursodeoxycholic acid_M+ACN+H_calc_pos - Feature: 541.328100899373_416.641941801467 - Nr: 3160
+Hit: 17a-Hydroxypregnenolone_M+CH3OH+H_calc_pos - Feature: 365.266158862938_422.567988687852 - Nr: 3300
+Hit: Dihydrocortisol_M-H2O+H_calc_pos - Feature: 381.22738124463_455.721546842001 - Nr: 3850
+Hit: Sebacic acid_M+NH4_calc_pos - Feature: 220.152281104067_324.73673469832 - Nr: 1562
+Hit: Sebacic acid_M+Na_calc_pos - Feature: 225.110037867112_293.130757178773 - Nr: 1426
+Hit: Sebacic acid_M+ACN+H_calc_pos - Feature: 244.154283954033_142.670379934509 - Nr: 808
+Hit: 25-Acetyl-6,7-didehydrofevicordin F3-glucoside_M+Na_calc_pos - Feature: 727.326941242892_37.2713041516628 - Nr: 252
+Hit: Tetrahydrocortisol_M+CH3OH+H_calc_pos - Feature: 399.271181227901_376.054374024534 - Nr: 2074
+Hit: Tetrahydrocortisol_M+CH3OH+H_calc_pos - Feature: 399.271280776121_403.813603717311 - Nr: 2530
+Hit: Pregnenolone_M+CH3OH+H_calc_pos - Feature: 349.271418683722_419.116249000492 - Nr: 3228
+Hit: Pregnenolone_M+ACN+H_calc_pos - Feature: 358.277358504473_367.02517068999 - Nr: 2010
+Hit: Pregnenolone_M-H2O+H_calc_pos - Feature: 333.246355776753_274.148660703035 - Nr: 1362
+Hit: MG(0:0/15:0/0:0)_M+Na_calc_pos - Feature: 339.250424356001_406.951236362251 - Nr: 2624
+Hit: MG(0:0/15:0/0:0)_M+ACN+H_calc_pos - Feature: 358.294996441383_343.182979825361 - Nr: 1702
+Hit: Prostaglandin E2_M+H_calc_pos - Feature: 353.22967280465_342.718689656028 - Nr: 1697
+Hit: Prostaglandin E2_M+H_calc_pos - Feature: 353.229685161505_359.480923853321 - Nr: 1915
+Hit: Prostaglandin E2_M+H_calc_pos - Feature: 353.229534744313_380.698347564568 - Nr: 2193
+Hit: Prostaglandin E2_M+Na_calc_pos - Feature: 375.212981250451_347.222275717501 - Nr: 1728
+Hit: 13S-hydroxyoctadecadienoic acid_M+H_calc_pos - Feature: 297.24075734032_403.89199599422 - Nr: 2532
+Hit: 13S-hydroxyoctadecadienoic acid_M+H_calc_pos - Feature: 297.240054773399_415.397517260786 - Nr: 3090
+Hit: 13S-hydroxyoctadecadienoic acid_M+Na_calc_pos - Feature: 319.224303597463_398.280299065948 - Nr: 2434
+Hit: 13S-hydroxyoctadecadienoic acid_M+ACN+H_calc_pos - Feature: 338.266629203527_399.903857826995 - Nr: 2485boundary (singular) fit: see help('isSingular')
+
+Hit: 13S-hydroxyoctadecadienoic acid_M-H2O+H_calc_pos - Feature: 313.236526522328_343.407361256064 - Nr: 1704
+Hit: TG(10:0/13:0/8:0)_M+2H_calc_pos - Feature: 285.242229270421_387.678699316217 - Nr: 2274
+Hit: TG(10:0/13:0/8:0)_M+2H_calc_pos - Feature: 285.242093953019_407.336969393739 - Nr: 2689
+Hit: PC(18:1(9Z)/18:1(9Z))_M+H_calc_pos - Feature: 786.600468259461_553.371019505287 - Nr: 4640
+Hit: PC(18:1(9Z)/18:1(9Z))_M+Na_calc_pos - Feature: 808.577136528136_509.198837909358 - Nr: 4158
+Hit: PC(18:1(9Z)/18:1(9Z))_M+K_calc_pos - Feature: 824.556109561206_553.310800091944 - Nr: 4639
+Hit: 3-Phenylpropyl isovalerate_M+2H_calc_pos - Feature: 111.08025309932_196.415219280104 - Nr: 1020
+Hit: 3-Phenylpropyl isovalerate_M+Na_calc_pos - Feature: 243.134843665344_381.270066069542 - Nr: 2200
+Hit: MG(0:0/14:1(9Z)/0:0)_M+Na_calc_pos - Feature: 323.218113556178_401.340939593126 - Nr: 2506
+Hit: MG(0:0/14:1(9Z)/0:0)_M+K_calc_pos - Feature: 339.192495206006_395.726300316379 - Nr: 2402
+Hit: MG(0:0/14:1(9Z)/0:0)_M+ACN+H_calc_pos - Feature: 342.263794795291_323.953821741667 - Nr: 1555
+Hit: MG(14:1(9Z)/0:0/0:0)_M+Na_calc_pos - Feature: 323.218113556178_401.340939593126 - Nr: 2506
+Hit: MG(14:1(9Z)/0:0/0:0)_M+K_calc_pos - Feature: 339.192495206006_395.726300316379 - Nr: 2402
+Hit: MG(14:1(9Z)/0:0/0:0)_M+ACN+H_calc_pos - Feature: 342.263794795291_323.953821741667 - Nr: 1555
+Hit: 13-OxoODE_M+H_calc_pos - Feature: 295.226305322511_341.972147280884 - Nr: 1694
+Hit: 13-OxoODE_M+H_calc_pos - Feature: 295.226422340185_359.297736206068 - Nr: 1913
+Hit: 13-OxoODE_M+Na_calc_pos - Feature: 317.208670281236_381.211315736529 - Nr: 2198
+Hit: 13-OxoODE_M+Na_calc_pos - Feature: 317.20786165975_392.980128000779 - Nr: 2382
+Hit: 13-OxoODE_M+CH3OH+H_calc_pos - Feature: 327.252481683657_376.587610649169 - Nr: 2084
+Hit: 13-OxoODE_M+CH3OH+H_calc_pos - Feature: 327.250157001361_383.149320831243 - Nr: 2216
+Hit: 13-OxoODE_M+CH3OH+H_calc_pos - Feature: 327.250089275239_403.644419536555 - Nr: 2528
+Hit: 13-OxoODE_M+ACN+H_calc_pos - Feature: 336.250417233327_385.287780149509 - Nr: 2250
+Hit: PC(15:0/22:1(13Z))_M+K_calc_pos - Feature: 840.584258682545_537.019995703627 - Nr: 4548
+Hit: PC(15:0/22:1(13Z))_M+K_calc_pos - Feature: 840.584505390316_542.335409103138 - Nr: 4565
+Hit: Cyclohexaneundecanoic acid_M+NH4_calc_pos - Feature: 286.273915228366_341.839100638567 - Nr: 1692
+Hit: Cyclohexaneundecanoic acid_M+Na_calc_pos - Feature: 291.229274694161_384.657597693346 - Nr: 2235
+Hit: Cyclohexaneundecanoic acid_M-H2O+H_calc_pos - Feature: 285.242229270421_387.678699316217 - Nr: 2274
+Hit: Cyclohexaneundecanoic acid_M-H2O+H_calc_pos - Feature: 285.242093953019_407.336969393739 - Nr: 2689
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M+Na_calc_pos - Feature: 295.226305322511_341.972147280884 - Nr: 1694
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M+Na_calc_pos - Feature: 295.226422340185_359.297736206068 - Nr: 1913
+Hit: 16-alpha-Hydroxyandrosterone_M+H_calc_pos - Feature: 307.224835561651_407.887514847272 - Nr: 2719
+Hit: 16-alpha-Hydroxyandrosterone_M+CH3OH+H_calc_pos - Feature: 339.250424356001_406.951236362251 - Nr: 2624
+Hit: 16-alpha-Hydroxyandrosterone_M-H2O+H_calc_pos - Feature: 323.225181122001_455.589206197786 - Nr: 3837
+Hit: 12-HEPE_M+H_calc_pos - Feature: 319.224303597463_398.280299065948 - Nr: 2434
+Hit: 12-HEPE_M+NH4_calc_pos - Feature: 336.250417233327_385.287780149509 - Nr: 2250
+Hit: 12-HEPE_M+Na_calc_pos - Feature: 341.207993621776_389.341740052528 - Nr: 2311boundary (singular) fit: see help('isSingular')
+
+Hit: 12-HEPE_M+Na_calc_pos - Feature: 341.207540158355_398.839285437657 - Nr: 2447
+Hit: 9-hydroxyoctadecanoic acid_M+Na_calc_pos - Feature: 323.254716872856_405.775948493222 - Nr: 2572
+Hit: LysoPC(16:0)_M+H_calc_pos - Feature: 496.340626510096_412.462183308103 - Nr: 2936
+Hit: LysoPC(16:0)_M+Na_calc_pos - Feature: 518.321883109829_412.443909848568 - Nr: 2926
+Hit: LysoPC(16:0)_M+Na_calc_pos - Feature: 518.321801766069_436.017605312578 - Nr: 3559
+Hit: LysoPC(16:0)_M+Na_calc_pos - Feature: 518.321723145403_455.034725330512 - Nr: 3808
+Hit: LysoPC(16:0)_M+K_calc_pos - Feature: 534.294923618868_412.471273917293 - Nr: 2939
+Hit: LysoPC(16:0)_M-H2O+H_calc_pos - Feature: 512.33447003665_364.598529767715 - Nr: 1970
+Hit: LysoPC(16:0)_M-H2O+H_calc_pos - Feature: 512.334375430607_400.121337830913 - Nr: 2490
+Hit: Undecanedioic acid_M+Na_calc_pos - Feature: 239.124875805511_316.164117905759 - Nr: 1510
+Hit: Undecanedioic acid_M+ACN+H_calc_pos - Feature: 258.169808497797_169.758452268269 - Nr: 903
+Hit: LysoPC(20:3(5Z,8Z,11Z))_M+H_calc_pos - Feature: 546.354189567518_411.827884726293 - Nr: 2789
+Hit: LysoPC(20:3(5Z,8Z,11Z))_M+H_calc_pos - Feature: 546.353025900225_426.778745900949 - Nr: 3406
+Hit: LysoPC(20:3(5Z,8Z,11Z))_M+H_calc_pos - Feature: 546.353056122932_455.007986261504 - Nr: 3806
+Hit: LysoPC(20:3(5Z,8Z,11Z))_M+Na_calc_pos - Feature: 568.339086822027_406.240990142933 - Nr: 2582
+Hit: Eicosapentaenoic acid_M+H_calc_pos - Feature: 303.231177934798_397.521278021367 - Nr: 2422
+Hit: Eicosapentaenoic acid_M+H_calc_pos - Feature: 303.231751893793_419.566863732622 - Nr: 3237
+Hit: Eicosapentaenoic acid_M+NH4_calc_pos - Feature: 320.25547408567_384.302621429278 - Nr: 2230
+Hit: Eicosapentaenoic acid_M+Na_calc_pos - Feature: 325.211285977062_429.147201468266 - Nr: 3464
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+H_calc_pos - Feature: 355.283848453926_395.375736272028 - Nr: 2396
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+NH4_calc_pos - Feature: 372.310652785195_356.000074852297 - Nr: 1887
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+Na_calc_pos - Feature: 377.262512416189_340.730512833529 - Nr: 1686
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+Na_calc_pos - Feature: 377.265942271038_418.49790660323 - Nr: 3212
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+ACN+H_calc_pos - Feature: 396.310551084953_352.511746215443 - Nr: 1768
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_M+H_calc_pos - Feature: 395.276818817938_395.70287866833 - Nr: 2400
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_M+CH3OH+H_calc_pos - Feature: 427.302783377517_420.386159070011 - Nr: 3264
+Hit: 3-Hydroxy-9-hexadecenoylcarnitine_M+K_calc_pos - Feature: 452.277434875077_401.770622211139 - Nr: 2508
+Hit: 3-Hydroxy-9-hexadecenoylcarnitine_M-H2O+H_calc_pos - Feature: 430.321556123629_415.259850363299 - Nr: 3083
+Hit: MG(0:0/14:0/0:0)_M+Na_calc_pos - Feature: 325.234579497983_383.83857853479 - Nr: 2224
+Hit: MG(0:0/14:0/0:0)_M+CH3OH+H_calc_pos - Feature: 335.278463889525_390.228931387366 - Nr: 2327
+Hit: MG(0:0/14:0/0:0)_M+K_calc_pos - Feature: 341.207993621776_389.341740052528 - Nr: 2311boundary (singular) fit: see help('isSingular')
+
+Hit: MG(0:0/14:0/0:0)_M+K_calc_pos - Feature: 341.207540158355_398.839285437657 - Nr: 2447
+Hit: MG(0:0/14:0/0:0)_M+ACN+H_calc_pos - Feature: 344.279522739549_334.914377690237 - Nr: 1646
+Hit: Prostaglandin E3_M+K_calc_pos - Feature: 389.172330523004_394.30787036994 - Nr: 2392
+Hit: Palmitoleic acid_M+H_calc_pos - Feature: 255.231676687424_390.607931735519 - Nr: 2339
+Hit: Palmitoleic acid_M+Na_calc_pos - Feature: 277.21610315248_376.469868748372 - Nr: 2082
+Hit: Palmitoleic acid_M-H2O+H_calc_pos - Feature: 271.226040773584_387.787295481402 - Nr: 2277
+Hit: DG(8:0/18:0/0:0)_M+K_calc_pos - Feature: 523.378221072121_549.335244955753 - Nr: 4627
+Hit: (E)-6-Hexadecenoic acid_M+H_calc_pos - Feature: 255.231676687424_390.607931735519 - Nr: 2339
+Hit: (E)-6-Hexadecenoic acid_M+Na_calc_pos - Feature: 277.21610315248_376.469868748372 - Nr: 2082
+Hit: (E)-6-Hexadecenoic acid_M-H2O+H_calc_pos - Feature: 271.226040773584_387.787295481402 - Nr: 2277
+Hit: 3-Pentadecenal_M+H_calc_pos - Feature: 225.219922272431_387.662315669635 - Nr: 2273
+Hit: Arachidonic acid_M+H_calc_pos - Feature: 305.246544653839_400.038815061254 - Nr: 2489
+Hit: Arachidonic acid_M+Na_calc_pos - Feature: 327.22704809922_440.288746302078 - Nr: 3698
+Hit: Arachidonic acid_M+CH3OH+H_calc_pos - Feature: 337.272627450098_404.751150074951 - Nr: 2541
+Hit: 18-Hydroxycorticosterone_M+H_calc_pos - Feature: 363.216579085909_303.380060712752 - Nr: 1458
+Hit: 18-Hydroxycorticosterone_M+H_calc_pos - Feature: 363.214270987292_374.668502077227 - Nr: 2061
+Hit: 18-Hydroxycorticosterone_M+H_calc_pos - Feature: 363.214565492982_398.199712709546 - Nr: 2430
+Hit: 18-Hydroxycorticosterone_M+NH4_calc_pos - Feature: 380.24519638969_392.061665176302 - Nr: 2353
+Hit: 18-Hydroxycorticosterone_M+Na_calc_pos - Feature: 385.195882844016_303.332430113645 - Nr: 1455
+Hit: PA(16:0/16:0)_M+K_calc_pos - Feature: 687.441778564352_559.158458748679 - Nr: 4674
+Hit: Cortisol_M+H_calc_pos - Feature: 363.216579085909_303.380060712752 - Nr: 1458
+Hit: Cortisol_M+H_calc_pos - Feature: 363.214270987292_374.668502077227 - Nr: 2061
+Hit: Cortisol_M+H_calc_pos - Feature: 363.214565492982_398.199712709546 - Nr: 2430
+Hit: Cortisol_M+NH4_calc_pos - Feature: 380.24519638969_392.061665176302 - Nr: 2353
+Hit: Cortisol_M+Na_calc_pos - Feature: 385.195882844016_303.332430113645 - Nr: 1455
+Hit: 9,12,13-TriHOME_M+H_calc_pos - Feature: 331.247525841143_342.849274291633 - Nr: 1700
+Hit: 9,12,13-TriHOME_M+H_calc_pos - Feature: 331.247913511559_359.103016228875 - Nr: 1912
+Hit: 9,12,13-TriHOME_M+NH4_calc_pos - Feature: 348.274587198969_455.642345776802 - Nr: 3845
+Hit: 9,12,13-TriHOME_M+Na_calc_pos - Feature: 353.22967280465_342.718689656028 - Nr: 1697
+Hit: 9,12,13-TriHOME_M+Na_calc_pos - Feature: 353.229685161505_359.480923853321 - Nr: 1915
+Hit: 9,12,13-TriHOME_M+Na_calc_pos - Feature: 353.229534744313_380.698347564568 - Nr: 2193
+Hit: 9E-Heptadecenoic acid_M+NH4_calc_pos - Feature: 286.273915228366_341.839100638567 - Nr: 1692
+Hit: 9E-Heptadecenoic acid_M+Na_calc_pos - Feature: 291.229274694161_384.657597693346 - Nr: 2235
+Hit: 9E-Heptadecenoic acid_M-H2O+H_calc_pos - Feature: 285.242229270421_387.678699316217 - Nr: 2274
+Hit: 9E-Heptadecenoic acid_M-H2O+H_calc_pos - Feature: 285.242093953019_407.336969393739 - Nr: 2689
+Hit: 9,10,13-TriHOME_M+H_calc_pos - Feature: 331.247525841143_342.849274291633 - Nr: 1700
+Hit: 9,10,13-TriHOME_M+H_calc_pos - Feature: 331.247913511559_359.103016228875 - Nr: 1912
+Hit: 9,10,13-TriHOME_M+NH4_calc_pos - Feature: 348.274587198969_455.642345776802 - Nr: 3845
+Hit: 9,10,13-TriHOME_M+Na_calc_pos - Feature: 353.22967280465_342.718689656028 - Nr: 1697
+Hit: 9,10,13-TriHOME_M+Na_calc_pos - Feature: 353.229685161505_359.480923853321 - Nr: 1915
+Hit: 9,10,13-TriHOME_M+Na_calc_pos - Feature: 353.229534744313_380.698347564568 - Nr: 2193
+Hit: 5,8,11-Eicosatrienoic acid_M+Na_calc_pos - Feature: 329.247062546247_425.510382132314 - Nr: 3359
+Hit: 5,8,11-Eicosatrienoic acid_M+Na_calc_pos - Feature: 329.242542374696_455.404097989226 - Nr: 3824
+Hit: 5,8,11-Eicosatrienoic acid_M+CH3OH+H_calc_pos - Feature: 339.288429743579_415.847610171323 - Nr: 3111
+Hit: 5,8,11-Eicosatrienoic acid_M+K_calc_pos - Feature: 345.216906464757_351.765151264219 - Nr: 1760
+Hit: DG(14:0/20:4(5Z,8Z,11Z,14Z)/0:0)_M+H_calc_pos - Feature: 589.482900204194_576.194584085346 - Nr: 4755
+Hit: DG(14:0/20:4(5Z,8Z,11Z,14Z)/0:0)_M-H2O+H_calc_pos - Feature: 605.47484854912_603.595961413282 - Nr: 4776
+Hit: LysoPA(24:1(15Z)/0:0)_M+NH4_calc_pos - Feature: 538.387262455999_434.948439457283 - Nr: 3507
+Hit: LysoPA(24:1(15Z)/0:0)_M+CH3OH+H_calc_pos - Feature: 553.389635906507_489.645289380125 - Nr: 4042
+Hit: Adrenic acid_M+Na_calc_pos - Feature: 355.262979464221_380.209953246454 - Nr: 2187
+Hit: Adrenic acid_M+K_calc_pos - Feature: 371.232829668619_369.550811046224 - Nr: 2031
+Hit: 2'-Apo-beta-carotenal_M+2H_calc_pos - Feature: 255.193157319994_315.120936660008 - Nr: 1507
+Hit: 2'-Apo-beta-carotenal_M+2H_calc_pos - Feature: 255.192950261544_382.034615509149 - Nr: 2205
+Hit: 2'-Apo-beta-carotenal_M+H_calc_pos - Feature: 509.378941448828_426.187176781705 - Nr: 3370
+Hit: 2'-Apo-beta-carotenal_M+Na_calc_pos - Feature: 531.364848515948_435.48507989008 - Nr: 3515
+Hit: 2'-Apo-beta-carotenal_M+CH3OH+H_calc_pos - Feature: 541.407099679909_475.179656733501 - Nr: 4000
+Hit: 2'-Apo-beta-carotenal_M+CH3OH+H_calc_pos - Feature: 541.399302852012_573.193553713873 - Nr: 4728
+Hit: 2'-Apo-beta-carotenal_M+K_calc_pos - Feature: 547.332223004119_234.175705885662 - Nr: 1170
+Hit: 2'-Apo-beta-carotenal_M-H2O+H_calc_pos - Feature: 525.374646490151_427.125255038891 - Nr: 3419
+Hit: Hypoxanthine_M+H_calc_pos - Feature: 137.045726336213_57.1269788932202 - Nr: 674
+Hit: Hypoxanthine_M+H_calc_pos - Feature: 137.045588792656_74.505861178535 - Nr: 704
+Hit: Hypoxanthine_M+Na_calc_pos - Feature: 159.027201077104_57.1181654996823 - Nr: 673
+Hit: Hypoxanthine_M+K_calc_pos - Feature: 175.000813294262_56.7130639116204 - Nr: 615
+Hit: 4-Guanidinobutanoic acid_M+ACN+H_calc_pos - Feature: 187.119976767814_262.932071807701 - Nr: 1298
+Hit: Pyridoxamine 5'-phosphate_M+H_calc_pos - Feature: 249.06120467075_147.882342679008 - Nr: 852
+Hit: 7,8-Dihydroneopterin_M+CH3OH+H_calc_pos - Feature: 288.129814620974_362.387110141928 - Nr: 1939
+Hit: 8-Hydroxy-7-methylguanine_M+NH4_calc_pos - Feature: 199.09404797813_211.91477653661 - Nr: 1093
+Hit: 8-Hydroxy-7-methylguanine_M+NH4_calc_pos - Feature: 199.094083421061_227.409457772266 - Nr: 1156
+Hit: 8-Hydroxy-7-methylguanine_M+NH4_calc_pos - Feature: 199.093799622535_262.455243594774 - Nr: 1292
+Hit: 8-Hydroxy-7-methylguanine_M+ACN+H_calc_pos - Feature: 223.094351312919_239.475839859356 - Nr: 1188
+Hit: Porphobilinogen_M+ACN+H_calc_pos - Feature: 268.130735360916_335.849633278472 - Nr: 1653
+Hit: Adlupone_M+CH3OH+H_calc_pos - Feature: 515.369712987374_527.697437133239 - Nr: 4492
+Hit: Adlupone_M+ACN+H_calc_pos - Feature: 524.371128627266_427.102580981878 - Nr: 3418
+Hit: 7-Aminomethyl-7-carbaguanine_M-H2O+H_calc_pos - Feature: 196.084453073238_364.446782912958 - Nr: 1958
+Hit: 3-Methylguanine_M+H_calc_pos - Feature: 166.071700235083_57.1482264330863 - Nr: 677
+Hit: 3-Methylguanine_M+ACN+H_calc_pos - Feature: 207.099310485282_206.224970756474 - Nr: 1063
+Hit: 3-Methylguanine_M+ACN+H_calc_pos - Feature: 207.099045241755_256.626767523379 - Nr: 1264
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.125355782171_364.460323293588 - Nr: 1959
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.125339314632_421.998795315646 - Nr: 3289
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.12529075562_479.010719346766 - Nr: 4004
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.125288967182_506.138453315167 - Nr: 4148
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.125118311345_526.973889610356 - Nr: 4472
+Hit: Ascorbigen_M+ACN+H_calc_pos - Feature: 347.125220872263_566.470930780067 - Nr: 4694
+Hit: Thiamine_M+H_calc_pos - Feature: 266.121606714713_181.56955822917 - Nr: 949
+Hit: Thiamine_M+Na_calc_pos - Feature: 288.103539987236_181.528101712498 - Nr: 947
+Hit: Thiamine_M+CH3OH+H_calc_pos - Feature: 298.145348874688_412.386370111978 - Nr: 2887
+Hit: Dextrorphan O-glucuronide_M+H_calc_pos - Feature: 434.212993133373_423.669656113818 - Nr: 3328
+Hit: 2-Oxoarginine_M+NH4_calc_pos - Feature: 191.115087359517_222.336554703465 - Nr: 1123
+Hit: Dimethylbenzimidazole_M+NH4_calc_pos - Feature: 164.117822988247_40.7775487970346 - Nr: 478
+Hit: (R)-3-Hydroxy-5-phenylpentanoic acid_M+CH3OH+H_calc_pos - Feature: 227.126131571962_271.421971931299 - Nr: 1350
+Hit: (R)-3-Hydroxy-5-phenylpentanoic acid_M+ACN+H_calc_pos - Feature: 236.127942479692_57.3511195277876 - Nr: 686
+Hit: 3 Hydroxyquinine_M+CH3OH+H_calc_pos - Feature: 373.211528083118_425.94828053249 - Nr: 3368
+Hit: 3-Hydroxysebacic acid_M+Na_calc_pos - Feature: 241.10428975129_233.184137827841 - Nr: 1166
+Hit: Phenylbutyrylglutamine_M+CH3OH+H_calc_pos - Feature: 325.17619932891_400.015371999455 - Nr: 2488
+Hit: (R)-3-Hydroxydecanoic acid_M+Na_calc_pos - Feature: 211.130333368673_311.51954105346 - Nr: 1495
+Hit: 3-Oxodecanoic acid_M+Na_calc_pos - Feature: 209.115347565383_259.697409643399 - Nr: 1280
+Hit: 3-Oxodecanoic acid_M+Na_calc_pos - Feature: 209.114719486598_321.529402524576 - Nr: 1543
+Hit: 3-Oxodecanoic acid_M+Na_calc_pos - Feature: 209.116606612837_362.54364435736 - Nr: 1941
+Hit: 3-Hydroxycapric acid_M+Na_calc_pos - Feature: 211.130333368673_311.51954105346 - Nr: 1495
+Hit: 3-Oxododecanoic acid_M+Na_calc_pos - Feature: 237.146078527853_313.464159504584 - Nr: 1500
+Hit: 3-Oxododecanoic acid_M+Na_calc_pos - Feature: 237.146102032101_329.244397009761 - Nr: 1598
+Hit: 3-Oxododecanoic acid_M+Na_calc_pos - Feature: 237.145986570025_348.246517315913 - Nr: 1736
+Hit: Pyroglutamate_M+H_calc_pos - Feature: 130.050015450251_40.7496302810821 - Nr: 477
+Hit: Pyroglutamate_M+H_calc_pos - Feature: 130.049793672988_57.0513091138196 - Nr: 657
+Hit: Pyroglutamate_M+H_calc_pos - Feature: 130.04975552536_74.0445578321508 - Nr: 703
+Hit: Pyroglutamate_M+H_calc_pos - Feature: 130.049471779618_181.662713132335 - Nr: 952
+Hit: Pyroglutamate_M+NH4_calc_pos - Feature: 147.076445164199_41.1521749678618 - Nr: 484
+Hit: Methionine_M+H_calc_pos - Feature: 150.058233155448_57.0515975818002 - Nr: 658
+Hit: Methionine_M+NH4_calc_pos - Feature: 167.085317344883_364.572175384656 - Nr: 1967
+Hit: Methionine_M+Na_calc_pos - Feature: 172.040565587875_56.9966779410066 - Nr: 641
+Hit: Methionine_M-H2O+H_calc_pos - Feature: 166.053788716397_188.978230779685 - Nr: 980
+Hit: 5-acetamidovalerate_M+H_calc_pos - Feature: 160.096854298875_42.5346863276452 - Nr: 505
+Hit: Methylhistidine_M+H_calc_pos - Feature: 170.092371622725_38.2873966201993 - Nr: 451boundary (singular) fit: see help('isSingular')
+
+Hit: Methylhistidine_M+NH4_calc_pos - Feature: 187.119976767814_262.932071807701 - Nr: 1298
+Hit: Methylhistidine_M+CH3OH+H_calc_pos - Feature: 202.118328159845_56.9858458055556 - Nr: 638
+Hit: N-lactoyl-Valine_M+NH4_calc_pos - Feature: 207.135691095237_294.082680718901 - Nr: 1431
+Hit: N-lactoyl-Valine_M+K_calc_pos - Feature: 228.063130104992_225.900863344673 - Nr: 1142
+Hit: N-Acetylaminooctanoic acid_M+NH4_calc_pos - Feature: 219.170365662051_45.8119916936986 - Nr: 533
+Hit: N-Acetylaminooctanoic acid_M+K_calc_pos - Feature: 240.101912362581_111.813525695071 - Nr: 758
+Hit: N-Acetylaminooctanoic acid_M-H2O+H_calc_pos - Feature: 218.13865451723_57.104641731235 - Nr: 669
+Hit: N-Acetylaminooctanoic acid_M-H2O+H_calc_pos - Feature: 218.138596781141_83.4513394837313 - Nr: 719
+Hit: N-lactoyl-Leucine_M+H_calc_pos - Feature: 204.123078045366_47.688655334964 - Nr: 561
+Hit: Alpha-N-Phenylacetyl-L-glutamine_M+H_calc_pos - Feature: 265.118262037827_181.598299334794 - Nr: 951
+Hit: Alpha-N-Phenylacetyl-L-glutamine_M+Na_calc_pos - Feature: 287.100401580609_181.52946490538 - Nr: 948
+Hit: Alpha-N-Phenylacetyl-L-glutamine_M+CH3OH+H_calc_pos - Feature: 297.146947603519_412.413307121442 - Nr: 2909
+Hit: Alpha-N-Phenylacetyl-L-glutamine_M+K_calc_pos - Feature: 303.073769436007_181.519088331524 - Nr: 946
+Hit: N-Acetylleucine_M+ACN+H_calc_pos - Feature: 215.137711924103_56.4322313171019 - Nr: 606
+Hit: Indoleacetic acid_M+H_calc_pos - Feature: 176.070372787722_243.219884347405 - Nr: 1201boundary (singular) fit: see help('isSingular')
+
+Hit: Indoleacetic acid_M+H_calc_pos - Feature: 176.070366774539_261.33589058715 - Nr: 1288
+Hit: Indoleacetic acid_M+NH4_calc_pos - Feature: 193.096758911717_57.0684759871839 - Nr: 663
+Hit: Indoleacetic acid_M-H2O+H_calc_pos - Feature: 192.065570851341_93.7935305328808 - Nr: 729
+Hit: Indoleacetic acid_M-H2O+H_calc_pos - Feature: 192.065507019498_110.086747329472 - Nr: 756
+Hit: Octenoylglycine_M+CH3OH+H_calc_pos - Feature: 232.15422533109_115.95168875572 - Nr: 761
+Hit: Octenoylglycine_M+ACN+H_calc_pos - Feature: 241.154485076628_56.8342213082529 - Nr: 620
+Hit: N-Propionylmethionine_M+Na_calc_pos - Feature: 228.066894998655_357.451740375041 - Nr: 1898
+Hit: N-Propionylmethionine_M+CH3OH+H_calc_pos - Feature: 238.111151219455_364.892175573398 - Nr: 1980
+Hit: N-Acetyltryptophan_M+NH4_calc_pos - Feature: 264.135128005103_309.188835438801 - Nr: 1492
+Hit: Pyro-L-glutaminyl-L-glutamine_M+Na_calc_pos - Feature: 280.092181677002_40.9034859513669 - Nr: 480
+Hit: Hepteneoylglycine_M+CH3OH+H_calc_pos - Feature: 218.13865451723_57.104641731235 - Nr: 669
+Hit: Hepteneoylglycine_M+CH3OH+H_calc_pos - Feature: 218.138596781141_83.4513394837313 - Nr: 719
+Hit: Creatinine_M+H_calc_pos - Feature: 114.066151384715_41.6813741453965 - Nr: 489
+Hit: Creatinine_M+H_calc_pos - Feature: 114.06599428718_55.9539654203045 - Nr: 603
+Hit: Creatinine_M+Na_calc_pos - Feature: 136.04821416144_41.1581944138301 - Nr: 485
+Hit: Creatinine_M+K_calc_pos - Feature: 152.022501408765_41.1041456143252 - Nr: 483
+Hit: Indolylacryloylglycine_M+K_calc_pos - Feature: 283.050481633885_266.551945467628 - Nr: 1319
+Hit: N-Heptanoylglycine_M+H_calc_pos - Feature: 188.129455375276_287.53603641963 - Nr: 1408
+Hit: N-Heptanoylglycine_M+Na_calc_pos - Feature: 210.110115167725_218.977297296638 - Nr: 1109
+Hit: N-Heptanoylglycine_M+Na_calc_pos - Feature: 210.110002584578_455.541028222642 - Nr: 3833
+Hit: N-Heptanoylglycine_M+CH3OH+H_calc_pos - Feature: 220.152281104067_324.73673469832 - Nr: 1562
+Hit: N-Heptanoylglycine_M+ACN+H_calc_pos - Feature: 229.154659514571_55.8903908365403 - Nr: 600
+Hit: N-Heptanoylglycine_M-H2O+H_calc_pos - Feature: 204.123078045366_47.688655334964 - Nr: 561
+Hit: cis-4-Decenedioic acid_M+NH4_calc_pos - Feature: 218.13865451723_57.104641731235 - Nr: 669
+Hit: cis-4-Decenedioic acid_M+NH4_calc_pos - Feature: 218.138596781141_83.4513394837313 - Nr: 719
+Hit: cis-4-Decenedioic acid_M+Na_calc_pos - Feature: 223.094351312919_239.475839859356 - Nr: 1188
+Hit: cis-4-Decenedioic acid_M+Na_calc_pos - Feature: 223.096231065174_327.932600984459 - Nr: 1587
+Hit: Alanylasparagine_M+H_calc_pos - Feature: 204.099414577884_197.700420594954 - Nr: 1029
+Hit: 1-Methyl-2-nonyl-4(1H)-quinolinone_M-H2O+H_calc_pos - Feature: 302.2146926383_337.756925336371 - Nr: 1658
+Hit: 1-Methyl-2-nonyl-4(1H)-quinolinone_M-H2O+H_calc_pos - Feature: 302.214624682504_435.851361714682 - Nr: 3546
+Hit: 3,4-Methylenesebacic acid_M+H_calc_pos - Feature: 227.126131571962_271.421971931299 - Nr: 1350
+Hit: 3,4-Methylenesebacic acid_M+NH4_calc_pos - Feature: 244.154283954033_142.670379934509 - Nr: 808
+Hit: 3,4-Methylenesebacic acid_M+Na_calc_pos - Feature: 249.109591576711_179.939572325844 - Nr: 925
+Hit: 3,4-Methylenesebacic acid_M+Na_calc_pos - Feature: 249.109940844899_214.62523582234 - Nr: 1101
+Hit: 3,4-Methylenesebacic acid_M+CH3OH+H_calc_pos - Feature: 259.151484917458_228.330096158874 - Nr: 1159
+Hit: 3,4-Methylenesebacic acid_M+ACN+H_calc_pos - Feature: 268.154397503336_158.051209795711 - Nr: 886
+Hit: 2-trans,4-cis-Decadienoylcarnitine_M+H_calc_pos - Feature: 312.216835088883_271.899883913629 - Nr: 1352
+Hit: 2-trans,4-cis-Decadienoylcarnitine_M+NH4_calc_pos - Feature: 329.242542374696_455.404097989226 - Nr: 3824
+Hit: 2-trans,4-cis-Decadienoylcarnitine_M+Na_calc_pos - Feature: 334.199712756033_366.969992645365 - Nr: 2005
+Hit: N1,N12-Diacetylspermine_M+Na_calc_pos - Feature: 309.226373190455_290.921332906071 - Nr: 1421
+Hit: N1,N12-Diacetylspermine_M+K_calc_pos - Feature: 325.197964011368_348.193335257854 - Nr: 1735
+Hit: Hippurate_M+H_calc_pos - Feature: 180.065439481334_180.437451712083 - Nr: 931
+Hit: Hippurate_M+NH4_calc_pos - Feature: 197.091867339208_186.893329970378 - Nr: 970
+Hit: Hippurate_M+Na_calc_pos - Feature: 202.047507205731_180.445867963799 - Nr: 933
+Hit: Prolyl-Valine_M+H_calc_pos - Feature: 215.137711924103_56.4322313171019 - Nr: 606
+Hit: Aspartylphenylalanine_M-H2O+H_calc_pos - Feature: 297.111328217916_364.894594273162 - Nr: 1981
+Hit: Phenylacetylglutamine_M+H_calc_pos - Feature: 265.118262037827_181.598299334794 - Nr: 951
+Hit: Phenylacetylglutamine_M+Na_calc_pos - Feature: 287.100401580609_181.52946490538 - Nr: 948
+Hit: Phenylacetylglutamine_M+CH3OH+H_calc_pos - Feature: 297.146947603519_412.413307121442 - Nr: 2909
+Hit: Phenylacetylglutamine_M+K_calc_pos - Feature: 303.073769436007_181.519088331524 - Nr: 946
+Hit: Humulinic acid _M+H_calc_pos - Feature: 267.158641782112_272.849757532691 - Nr: 1354
+Hit: Humulinic acid _M+H_calc_pos - Feature: 267.156469958693_377.944999202062 - Nr: 2151
+Hit: Humulinic acid _M+NH4_calc_pos - Feature: 284.185611154593_148.340932933676 - Nr: 857boundary (singular) fit: see help('isSingular')
+
+Hit: Ubiquinone-1_M+H_calc_pos - Feature: 251.126155314017_362.080398268842 - Nr: 1937
+Hit: Ubiquinone-1_M+NH4_calc_pos - Feature: 268.154397503336_158.051209795711 - Nr: 886
+Hit: Ubiquinone-1_M+Na_calc_pos - Feature: 273.109623515269_323.993190753685 - Nr: 1556
+Hit: Ubiquinone-1_M+Na_calc_pos - Feature: 273.109548080935_329.890887718777 - Nr: 1603
+Hit: Ubiquinone-1_M+Na_calc_pos - Feature: 273.109470126229_358.018554648339 - Nr: 1905
+Hit: Ubiquinone-1_M+ACN+H_calc_pos - Feature: 292.152281798562_313.951944409357 - Nr: 1503
+Hit: alpha-D-Glucose_M+H_calc_pos - Feature: 181.072267173937_137.761522351778 - Nr: 801
+Hit: alpha-D-Glucose_M+H_calc_pos - Feature: 181.072133181407_156.100511423815 - Nr: 872
+Hit: alpha-D-Glucose_M+Na_calc_pos - Feature: 203.052755906169_42.7861649077579 - Nr: 507
+Hit: alpha-D-Glucose_M+Na_calc_pos - Feature: 203.052591048813_52.1455829145053 - Nr: 584
+Hit: alpha-D-Glucose_M+Na_calc_pos - Feature: 203.052446101755_70.2412534218494 - Nr: 702
+Hit: alpha-D-Glucose_M+Na_calc_pos - Feature: 203.053687382017_163.191288514314 - Nr: 893
+Hit: alpha-D-Glucose_M+Na_calc_pos - Feature: 203.051239600691_180.415502813842 - Nr: 929
+Hit: alpha-D-Glucose_M+K_calc_pos - Feature: 219.026569065431_43.0501121240319 - Nr: 510
+Hit: 3-Hydroxydodecanedioic acid_M+Na_calc_pos - Feature: 269.135634205832_272.913290349085 - Nr: 1356
+Hit: 3-Hydroxydodecanedioic acid_M+Na_calc_pos - Feature: 269.135752171983_287.258132252949 - Nr: 1406
+Hit: Indoxyl_M+H_calc_pos - Feature: 134.058818703917_157.780589346508 - Nr: 880
+Hit: Indoxyl_M+Na_calc_pos - Feature: 156.042173190985_35.6500006786026 - Nr: 40
+Hit: Indoxyl_M+CH3OH+H_calc_pos - Feature: 166.086130681471_122.260451976589 - Nr: 773
+Hit: Glutamylproline_M+CH3OH+H_calc_pos - Feature: 277.141094621478_327.598797750799 - Nr: 1579
+Hit: Glutamylproline_M+CH3OH+H_calc_pos - Feature: 277.140706494198_456.464322520343 - Nr: 3865
+Hit: Glutamylproline_M-H2O+H_calc_pos - Feature: 261.10989250153_312.508941150926 - Nr: 1498
+Hit: PE(20:0/18:2)_M+H_calc_pos - Feature: 772.583664536646_534.463832760524 - Nr: 4528
+Hit: PE(20:0/18:2)_M+NH4_calc_pos - Feature: 789.609048309629_554.310080154072 - Nr: 4651
+Hit: PE(20:0/18:2)_M+NH4_calc_pos - Feature: 789.619365246071_585.533723591657 - Nr: 4762
+Hit: PE(20:0/18:2)_M+Na_calc_pos - Feature: 794.564908176509_511.31908731612 - Nr: 4217
+Hit: PE(20:0/18:2)_M+Na_calc_pos - Feature: 794.567833586062_535.128364742225 - Nr: 4537
+Hit: PE(20:0/18:2)_M+ACN+H_calc_pos - Feature: 813.607526734849_549.575292144605 - Nr: 4630
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M+ACN+H_calc_pos - Feature: 486.36137089259_389.960147462138 - Nr: 2319
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M-H2O+H_calc_pos - Feature: 461.32357303857_418.998953373959 - Nr: 3222
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+H_calc_pos - Feature: 235.168840692279_375.078818399187 - Nr: 2065
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+CH3OH+H_calc_pos - Feature: 267.194548878825_343.00568234735 - Nr: 1701
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+ACN+H_calc_pos - Feature: 276.193381119415_389.655934688972 - Nr: 2317
+Hit: PC(22:6/18:0)-v1_M+H_calc_pos - Feature: 834.599179131711_526.788662353034 - Nr: 4468
+Hit: PC(22:6/18:0)-v1_M+H_calc_pos - Feature: 834.598892994944_544.300944773108 - Nr: 4601
+Hit: PC(22:6/18:0)-v1_M+H_calc_pos - Feature: 834.597967381808_567.753464478468 - Nr: 4697
+Hit: PC(22:6/18:0)-v1_M+Na_calc_pos - Feature: 856.581406046954_543.925932651887 - Nr: 4592
+Hit: PC(22:6/18:0)-v1_M+CH3OH+H_calc_pos - Feature: 866.625187453885_465.298603108915 - Nr: 3936
+Hit: PC(22:6/18:0)-v2_M+H_calc_pos - Feature: 818.602347499855_562.164499468806 - Nr: 4688
+Hit: PC(22:6/18:0)-v2_M+H_calc_pos - Feature: 818.602831503237_581.196447474203 - Nr: 4758
+Hit: PC(22:6/18:0)-v2_M+Na_calc_pos - Feature: 840.584258682545_537.019995703627 - Nr: 4548
+Hit: PC(22:6/18:0)-v2_M+Na_calc_pos - Feature: 840.584505390316_542.335409103138 - Nr: 4565
+Hit: PC(22:6/18:0)-v2_M-H2O+H_calc_pos - Feature: 834.599179131711_526.788662353034 - Nr: 4468
+Hit: PC(22:6/18:0)-v2_M-H2O+H_calc_pos - Feature: 834.598892994944_544.300944773108 - Nr: 4601
+Hit: PC(22:6/18:0)-v2_M-H2O+H_calc_pos - Feature: 834.597967381808_567.753464478468 - Nr: 4697
+Hit: PE(p-16:0/20:4)_M+H_calc_pos - Feature: 724.52817274786_528.047980959198 - Nr: 4501
+Hit: PE(p-16:0/20:4)_M+H_calc_pos - Feature: 724.533475822819_558.962958020856 - Nr: 4660
+Hit: PE(p-16:0/20:4)_M+NH4_calc_pos - Feature: 741.549153735424_497.637040926339 - Nr: 4083
+Hit: PE(p-16:0/20:4)_M+Na_calc_pos - Feature: 746.508949670327_435.995169436694 - Nr: 3557
+Hit: PE(p-16:0/20:4)_M+Na_calc_pos - Feature: 746.508730761389_528.594895256493 - Nr: 4512
+Hit: PE(p-16:0/20:4)_M+CH3OH+H_calc_pos - Feature: 756.553998212511_500.847973837531 - Nr: 4118
+Hit: PE(p-16:0/20:4)_M+CH3OH+H_calc_pos - Feature: 756.550755665932_535.359185784755 - Nr: 4538
+Hit: PE(p-16:0/20:4)_M+K_calc_pos - Feature: 762.476299253484_427.329046955743 - Nr: 3423
+Hit: PE(p-16:0/20:4)_M+ACN+H_calc_pos - Feature: 765.554829764585_510.249462688033 - Nr: 4202
+Hit: PE(p-16:0/20:4)_M-H2O+H_calc_pos - Feature: 740.526366438515_513.355593184841 - Nr: 4236
+Hit: Diacetylspermine_M+Na_calc_pos - Feature: 309.226373190455_290.921332906071 - Nr: 1421
+Hit: Diacetylspermine_M+K_calc_pos - Feature: 325.197964011368_348.193335257854 - Nr: 1735
+Hit:  Proline_M+H_calc_pos - Feature: 116.070751681708_45.4422649804022 - Nr: 530
+Hit:  Proline_M+H_calc_pos - Feature: 116.070512404418_59.8147921819215 - Nr: 692
+Hit:  Proline_M+CH3OH+H_calc_pos - Feature: 148.096578196225_56.3604949465947 - Nr: 605
+Hit: C14:1_M+Na_calc_pos - Feature: 393.285539474608_340.292372594588 - Nr: 1684
+Hit: C14:1_M+K_calc_pos - Feature: 409.255687266472_367.233144473615 - Nr: 2012
+Hit: Kynurenine_M+H_calc_pos - Feature: 209.091758242503_93.8218537877662 - Nr: 730
+Hit: Kynurenine_M+H_calc_pos - Feature: 209.091789520302_110.053628547845 - Nr: 755
+Hit: Glucose_M+H_calc_pos - Feature: 181.072267173937_137.761522351778 - Nr: 801
+Hit: Glucose_M+H_calc_pos - Feature: 181.072133181407_156.100511423815 - Nr: 872
+Hit: Glucose_M+Na_calc_pos - Feature: 203.052755906169_42.7861649077579 - Nr: 507
+Hit: Glucose_M+Na_calc_pos - Feature: 203.052591048813_52.1455829145053 - Nr: 584
+Hit: Glucose_M+Na_calc_pos - Feature: 203.052446101755_70.2412534218494 - Nr: 702
+Hit: Glucose_M+Na_calc_pos - Feature: 203.053687382017_163.191288514314 - Nr: 893
+Hit: Glucose_M+Na_calc_pos - Feature: 203.051239600691_180.415502813842 - Nr: 929
+Hit: Glucose_M+K_calc_pos - Feature: 219.026569065431_43.0501121240319 - Nr: 510
+Hit: Aspartic acid_M+CH3OH+H_calc_pos - Feature: 166.071700235083_57.1482264330863 - Nr: 677
+Hit: Beta-hydroxybutyric acid_M+ACN+H_calc_pos - Feature: 146.080783061026_57.0636424270029 - Nr: 661
+Hit: Hydroxyproline_M+K_calc_pos - Feature: 170.020757379288_194.637926396392 - Nr: 1015
+Hit: Hydroxyproline_M+ACN+H_calc_pos - Feature: 173.09180497844_40.6273471464946 - Nr: 473
+Hit: Indole acetic acid_M+H_calc_pos - Feature: 176.070372787722_243.219884347405 - Nr: 1201boundary (singular) fit: see help('isSingular')
+
+Hit: Indole acetic acid_M+H_calc_pos - Feature: 176.070366774539_261.33589058715 - Nr: 1288
+Hit: Indole acetic acid_M+NH4_calc_pos - Feature: 193.096758911717_57.0684759871839 - Nr: 663
+Hit: Indole acetic acid_M-H2O+H_calc_pos - Feature: 192.065570851341_93.7935305328808 - Nr: 729
+Hit: Indole acetic acid_M-H2O+H_calc_pos - Feature: 192.065507019498_110.086747329472 - Nr: 756
+Hit: Hippuric acid_M+H_calc_pos - Feature: 180.065439481334_180.437451712083 - Nr: 931
+Hit: Hippuric acid_M+NH4_calc_pos - Feature: 197.091867339208_186.893329970378 - Nr: 970
+Hit: Hippuric acid_M+Na_calc_pos - Feature: 202.047507205731_180.445867963799 - Nr: 933
+Hit: Butyric acid_M+ACN+H_calc_pos - Feature: 130.086266513124_44.9011110507525 - Nr: 524
+Hit: Butyric acid_M+ACN+H_calc_pos - Feature: 130.08607629005_55.7872032272129 - Nr: 599
+Hit: Guanidinoacetate_M-H2O+H_calc_pos - Feature: 134.058818703917_157.780589346508 - Nr: 880
+Hit: 3-methylxanthine_M+H_calc_pos - Feature: 167.056371577531_101.371060492943 - Nr: 736
+Hit: 3-methylxanthine_M+H_calc_pos - Feature: 167.056548275977_124.858243492024 - Nr: 785
+Hit: 3-methylxanthine_M+CH3OH+H_calc_pos - Feature: 199.082455760293_56.740500594625 - Nr: 616
+Hit: 2’-O-methylcytidine_M+Na_calc_pos - Feature: 280.092181677002_40.9034859513669 - Nr: 480
+Hit: Bilirubin _M+NH4_calc_pos - Feature: 602.295278694596_417.946046236331 - Nr: 3202
+Hit: Bilirubin _M+ACN+H_calc_pos - Feature: 626.296095591541_426.147227240481 - Nr: 3369
+Hit: Bilirubin _M-H2O+H_calc_pos - Feature: 601.266301341359_240.088450218491 - Nr: 1190
+Hit: N-palmitoylglycine_M+Na_calc_pos - Feature: 336.250417233327_385.287780149509 - Nr: 2250
+Hit: N-palmitoylglycine_M-H2O+H_calc_pos - Feature: 330.263715307032_316.884073012055 - Nr: 1520
+Hit: Histidine_M+H_calc_pos - Feature: 156.076345216166_37.8889816619512 - Nr: 449
+Hit: Histidine_M+Na_calc_pos - Feature: 178.058761559855_37.8309919369866 - Nr: 448
+Hit: 13-HODE_M-H2O-H_calc_neg - Feature: 277.217594108582_418.686349183189 - Nr: 2670
+Hit: 13-HODE_M-H_calc_neg - Feature: 295.227986584127_395.637558652509 - Nr: 2086
+Hit: 13-HODE_M+Na-2H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: 19-HETE_M-H2O-H_calc_neg - Feature: 301.217682535309_417.493669963816 - Nr: 2616
+Hit: 19-HETE_M-H_calc_neg - Feature: 319.228272907372_393.148431071772 - Nr: 2041
+Hit: 19-HETE_M+FA-H_calc_neg - Feature: 365.231029282233_403.46428942669 - Nr: 2241
+Hit: 9-HODE_M-H2O-H_calc_neg - Feature: 277.217594108582_418.686349183189 - Nr: 2670
+Hit: 9-HODE_M-H_calc_neg - Feature: 295.227986584127_395.637558652509 - Nr: 2086
+Hit: 9-HODE_M+Na-2H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: 12-keto-LTB4_M-H2O-H_calc_neg - Feature: 315.197855028929_393.034536749934 - Nr: 2039
+Hit: 12-keto-LTB4_M-H_calc_neg - Feature: 333.207074325539_318.835298796099 - Nr: 1517
+Hit: 12-keto-LTB4_M+FA-H_calc_neg - Feature: 379.210355161167_366.740630224159 - Nr: 1842
+Hit: taurine_M-H_calc_neg - Feature: 124.007568128144_40.7139845615768 - Nr: 563
+Hit: taurine_M-H_calc_neg - Feature: 124.008102007162_59.1460797593022 - Nr: 1013
+Hit: glutamate_M-H2O-H_calc_neg - Feature: 128.035962256235_52.9096697494766 - Nr: 963
+Hit: glutamate_M-H2O-H_calc_neg - Feature: 128.035498332184_73.0561037547861 - Nr: 1045
+Hit: glutamate_M-H2O-H_calc_neg - Feature: 128.035364233446_86.850502479014 - Nr: 1062
+Hit: fructose 6-phosphate_M+K-2H_calc_neg - Feature: 296.979796091811_155.812421590774 - Nr: 1148
+Hit: hypoxanthine_M+Na-2H_calc_neg - Feature: 157.011772790603_80.6103899621741 - Nr: 1052
+Hit: hypoxanthine_M+FA-H_calc_neg - Feature: 181.037060235864_53.1914891825849 - Nr: 996
+Hit: hypoxanthine_M+FA-H_calc_neg - Feature: 181.036762254218_112.519186389019 - Nr: 1089
+Hit: phenylalanine_M-H_calc_neg - Feature: 164.071993429193_68.0526718576747 - Nr: 1027
+Hit: phenylalanine_M-H_calc_neg - Feature: 164.071702327389_122.103483926975 - Nr: 1108
+Hit: phenylalanine_M+K-2H_calc_neg - Feature: 202.025894783584_244.137324889605 - Nr: 1251
+Hit: phenylalanine_M+FA-H_calc_neg - Feature: 210.077815247018_341.45580378793 - Nr: 1680
+Hit: phenylalanine_M+Hac-H_calc_neg - Feature: 224.092697340221_348.391774374161 - Nr: 1723
+Hit: phosphoethanolamine_M-H_calc_neg - Feature: 140.011236228346_52.9516075431515 - Nr: 976
+Hit: palmitoylcarnitine_M+K-2H_calc_neg - Feature: 437.290741413759_395.066109513614 - Nr: 2075
+Hit: myristoylcarnitine_M+Cl_calc_neg - Feature: 407.280452731679_377.530024795638 - Nr: 1953boundary (singular) fit: see help('isSingular')
+
+Hit: arginine_M+Na-2H_calc_neg - Feature: 195.08588546983_350.770968496437 - Nr: 1732
+Hit: arginine_M+Cl_calc_neg - Feature: 209.079657223795_264.194714671823 - Nr: 1316
+Hit: arginine_M+Cl_calc_neg - Feature: 209.081946496775_281.624816076209 - Nr: 1372boundary (singular) fit: see help('isSingular')
+
+Hit: asparagine_M+Cl_calc_neg - Feature: 167.021687218522_52.6483525781098 - Nr: 912
+Hit: asparagine_M+Cl_calc_neg - Feature: 167.021435588228_67.2492220912971 - Nr: 1026
+Hit: valine_M-H_calc_neg - Feature: 116.0726947899_51.0438184492969 - Nr: 874
+Hit: methylmalonic acid_M+K-2H_calc_neg - Feature: 154.974385904698_411.430766632559 - Nr: 2466
+Hit: methylmalonic acid_M+K-2H_calc_neg - Feature: 154.974252558491_510.432074705826 - Nr: 4036
+Hit: methylmalonic acid_M+K-2H_calc_neg - Feature: 154.974356970472_538.617822805907 - Nr: 4288
+Hit: methylmalonic acid_M+K-2H_calc_neg - Feature: 154.974802277522_565.060851432524 - Nr: 4411
+Hit: 5-methyltetrahydrofolate_M-H_calc_neg - Feature: 458.176956880256_428.892215693756 - Nr: 2956
+Hit: 5-methyltetrahydrofolate_M+Cl_calc_neg - Feature: 494.155553145607_300.706249936712 - Nr: 1441
+Hit: 5-methyltetrahydrofolate_M+Cl_calc_neg - Feature: 494.158374198192_424.033129401022 - Nr: 2834
+Hit: 5-methyltetrahydrofolate_M+FA-H_calc_neg - Feature: 504.181597901419_423.165987224775 - Nr: 2778
+Hit: Methionine _M-H_calc_neg - Feature: 148.044787690892_52.715762941677 - Nr: 922
+Hit: Methionine _M+Cl_calc_neg - Feature: 184.019479612784_52.9662151604982 - Nr: 979
+Hit: symmetric dimethylarginine _M+Cl_calc_neg - Feature: 237.111428006435_313.392082775457 - Nr: 1499
+Hit: symmetric dimethylarginine _M+K-2H_calc_neg - Feature: 239.092873529338_324.898807099302 - Nr: 1566
+Hit: Vitamin B6 - Pyridoxine?_M-H2O-H_calc_neg - Feature: 150.05610013559_102.769673496962 - Nr: 1080boundary (singular) fit: see help('isSingular')
+
+Hit: Vitamin B6 - Pyridoxine?_M-H2O-H_calc_neg - Feature: 150.055979929246_120.858674901312 - Nr: 1102
+Hit: asymmetric dimethylarginine _M+Cl_calc_neg - Feature: 237.111428006435_313.392082775457 - Nr: 1499
+Hit: asymmetric dimethylarginine _M+K-2H_calc_neg - Feature: 239.092873529338_324.898807099302 - Nr: 1566
+Hit: Homo-L-arginine_M+Cl_calc_neg - Feature: 223.094943821572_291.17958769972 - Nr: 1399
+Hit: L-Tryptophan_M-H_calc_neg - Feature: 203.082837216501_147.870911793374 - Nr: 1130
+Hit: L-Tryptophan_M+Na-2H_calc_neg - Feature: 225.063059547104_53.2819377552443 - Nr: 999
+Hit: L-Tryptophan_M+Cl_calc_neg - Feature: 239.059684639805_207.222949014789 - Nr: 1226
+Hit: L-Tryptophan_M+Hac-H_calc_neg - Feature: 263.103656124028_169.613180535082 - Nr: 1160
+Hit: Trehalose 6-phosphate_M+FA-H_calc_neg - Feature: 467.083530231185_332.937073909524 - Nr: 1628
+Hit: D-Glucose_M-2H_calc_neg - Feature: 89.0248987450634_53.008785402965 - Nr: 987
+Hit: D-Glucose_M-2H_calc_neg - Feature: 89.0244487121473_81.0551622027419 - Nr: 1057
+Hit: D-Glucose_M-H_calc_neg - Feature: 179.056498951926_43.4825185985469 - Nr: 637
+Hit: D-Glucose_M+Na-2H_calc_neg - Feature: 201.03788020754_81.1626770025948 - Nr: 1058
+Hit: D-Glucose_M+Cl_calc_neg - Feature: 215.032862605212_41.8209545521061 - Nr: 582
+Hit: D-Glucose_M+Cl_calc_neg - Feature: 215.032951384174_66.0118359561774 - Nr: 1023
+Hit: D-Glucose_M+Cl_calc_neg - Feature: 215.032781090154_121.343218952971 - Nr: 1103
+Hit: D-Glucose_M+FA-H_calc_neg - Feature: 225.063059547104_53.2819377552443 - Nr: 999
+Hit: Lactose 6-phosphate_M+FA-H_calc_neg - Feature: 467.083530231185_332.937073909524 - Nr: 1628
+Hit: Nicotinamide riboside_M+FA-H_calc_neg - Feature: 300.098783616291_400.027498338943 - Nr: 2176
+Hit: (N-acetylneuraminosyl(a2-6)lactosamine)_M+Cl_calc_neg - Feature: 709.213810609399_331.154578946788 - Nr: 1591boundary (singular) fit: see help('isSingular')
+
+Hit: (N-acetylneuraminosyl(a2-6)lactosamine)_M+Cl_calc_neg - Feature: 709.213042377272_345.460169042072 - Nr: 1715
+Hit: (N-acetylneuraminosyl(a2-6)lactosamine)_M+Hac-H_calc_neg - Feature: 733.247828873644_468.042240177623 - Nr: 3713
+Hit: Glycyl-Phenylalanine_M-H2O-H_calc_neg - Feature: 203.082837216501_147.870911793374 - Nr: 1130
+Hit: Glycyl-Phenylalanine_M+K-2H_calc_neg - Feature: 259.047216145432_327.733384073798 - Nr: 1579
+Hit: gamma-Glutamylglycine_M-H2O-H_calc_neg - Feature: 185.057256758981_52.8602624128629 - Nr: 947
+Hit: Alanyl-Cysteine_M+Na-2H_calc_neg - Feature: 213.029940245791_293.710542328158 - Nr: 1412
+Hit: Histidinyl-Glycine_M-H_calc_neg - Feature: 211.083377867345_136.254251837611 - Nr: 1121
+Hit: Arginyl-Aspartic acid_M+K-2H_calc_neg - Feature: 326.088726380098_53.2819377552443 - Nr: 1000
+Hit: Arginyl-Aspartic acid_M+K-2H_calc_neg - Feature: 326.087949982726_104.945454323988 - Nr: 1087
+Hit: Alanyl-Histidine_M+Cl_calc_neg - Feature: 261.07468437392_324.908494976749 - Nr: 1569
+Hit: Phenylalanylproline_M-2H_calc_neg - Feature: 130.059201789437_166.614719036799 - Nr: 1157
+Hit: gamma-Glutamyltyrosine_M+FA-H_calc_neg - Feature: 355.116910082899_406.234657619009 - Nr: 2359
+Hit: Aspartyl-Histidine_M-H_calc_neg - Feature: 269.087673771773_78.7185977300202 - Nr: 1048
+Hit: Threoninyl-Histidine_M-2H_calc_neg - Feature: 127.051435745938_40.883482267005 - Nr: 565
+Hit: Phenylalanyl-Glycine_M-H2O-H_calc_neg - Feature: 203.082837216501_147.870911793374 - Nr: 1130
+Hit: Phenylalanyl-Glycine_M+K-2H_calc_neg - Feature: 259.047216145432_327.733384073798 - Nr: 1579
+Hit: Hydroxyprolyl-Gamma-glutamate_M-H2O-H_calc_neg - Feature: 240.09609386499_324.897490081173 - Nr: 1564
+Hit: Histidinyl-Valine_M+Cl_calc_neg - Feature: 289.104504508461_359.496548321751 - Nr: 1796
+Hit: gamma-Glutamylleucine_M-H2O-H_calc_neg - Feature: 241.118709519116_194.153347971971 - Nr: 1186
+Hit: Leucyl-Glutamate_M-H2O-H_calc_neg - Feature: 241.118709519116_194.153347971971 - Nr: 1186
+Hit: Histidinyl-Alanine_M+Cl_calc_neg - Feature: 261.07468437392_324.908494976749 - Nr: 1569
+Hit: Prolylphenylalanine_M-2H_calc_neg - Feature: 130.059201789437_166.614719036799 - Nr: 1157
+Hit: 7-Sulfocholic acid_M-2H_calc_neg - Feature: 243.116884629774_334.559954147637 - Nr: 1640
+Hit: 3-Sulfodeoxycholic acid_M-H_calc_neg - Feature: 457.226809838968_437.107524081608 - Nr: 3233
+Hit: 3-Sulfodeoxycholic acid_M-H_calc_neg - Feature: 457.224512626013_475.817253396748 - Nr: 3785
+Hit: 6-Keto-prostaglandin F1a_M-H2O-H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: 6-Keto-prostaglandin F1a_M-H2O-H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: 6-Keto-prostaglandin F1a_M+Na-2H_calc_neg - Feature: 391.208310462928_433.76888395334 - Nr: 3148
+Hit: 6-Keto-prostaglandin F1a_M+FA-H_calc_neg - Feature: 415.236252659512_475.775760919008 - Nr: 3775
+Hit: Leukotriene A4_M-H2O-H_calc_neg - Feature: 299.202337908414_413.411051036031 - Nr: 2515
+Hit: Leukotriene A4_M-H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: Leukotriene A4_M+FA-H_calc_neg - Feature: 363.215677740774_388.677143738553 - Nr: 2012
+Hit: Leukotriene A4_M+FA-H_calc_neg - Feature: 363.215272937475_395.691055388188 - Nr: 2094
+Hit: 3,17-Androstanediol glucuronide_M-H2O-H_calc_neg - Feature: 449.254211046883_400.268221763441 - Nr: 2179
+Hit: 18-Hydroxycortisol_M+Na-2H_calc_neg - Feature: 399.17683670233_300.901689292152 - Nr: 1446
+Hit: 18-Hydroxycortisol_M+Na-2H_calc_neg - Feature: 399.180420386116_443.247026867039 - Nr: 3383
+Hit: 2,3-Dinor-6-keto-prostaglandin F1 a_M+Na-2H_calc_neg - Feature: 363.176739403425_417.900670100543 - Nr: 2639
+Hit: 2,3-Dinor-6-keto-prostaglandin F1 a_M+FA-H_calc_neg - Feature: 387.205024332821_457.928385741091 - Nr: 3639
+Hit: Prostaglandin I2_M-H2O-H_calc_neg - Feature: 333.207074325539_318.835298796099 - Nr: 1517
+Hit: Prostaglandin I2_M-H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: Prostaglandin I2_M-H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: Prostaglandin I2_M+Hac-H_calc_neg - Feature: 411.238484621685_323.168438198157 - Nr: 1542
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M-H_calc_neg - Feature: 481.243697046473_305.593420413943 - Nr: 1472
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M+Na-2H_calc_neg - Feature: 503.225836133331_434.015914587846 - Nr: 3170
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M+K-2H_calc_neg - Feature: 519.205108194471_439.466293482881 - Nr: 3317
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M+Hac-H_calc_neg - Feature: 541.264709128008_294.781529386612 - Nr: 1424
+Hit: 11-beta-Hydroxyandrosterone-3-glucuronide_M+Hac-H_calc_neg - Feature: 541.264614622484_314.752999720165 - Nr: 1504
+Hit: 13,14-Dihydro PGF2a_M-H2O-H_calc_neg - Feature: 337.23636442213_441.565558543045 - Nr: 3345
+Hit: 14,15-DiHETrE_M-H2O-H_calc_neg - Feature: 319.228272907372_393.148431071772 - Nr: 2041
+Hit: 14,15-DiHETrE_M-H_calc_neg - Feature: 337.23636442213_441.565558543045 - Nr: 3345
+Hit: 14,15-DiHETrE_M+FA-H_calc_neg - Feature: 383.240965626267_381.800288365081 - Nr: 1963
+Hit: 14,15-DiHETrE_M+FA-H_calc_neg - Feature: 383.240817926834_404.09614761456 - Nr: 2276
+Hit: 17 HDoHE_M-H_calc_neg - Feature: 343.228910937721_392.243469581377 - Nr: 2036
+Hit: 17 HDoHE_M-H_calc_neg - Feature: 343.228099952408_400.452237702328 - Nr: 2184
+Hit: 17 HDoHE_M+Na-2H_calc_neg - Feature: 365.21048841603_434.865875107241 - Nr: 3195
+Hit: Leukotriene B4_M-H2O-H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: Leukotriene B4_M-H_calc_neg - Feature: 335.220946415443_401.531171377208 - Nr: 2204
+Hit: Leukotriene B4_M-H_calc_neg - Feature: 335.220389154126_429.481178962014 - Nr: 2969
+Hit: Leukotriene B4_M+FA-H_calc_neg - Feature: 381.226823147425_432.99675528621 - Nr: 3040
+Hit: 12a-Hydroxy-3-oxocholadienic acid_M-H_calc_neg - Feature: 385.238413949477_348.569762127032 - Nr: 1726
+Hit: 11'-Carboxy-gamma-tocotrienol_M-H_calc_neg - Feature: 399.251486054058_437.975076225397 - Nr: 3301
+Hit: 11'-Carboxy-gamma-tocotrienol_M+Cl_calc_neg - Feature: 435.234983702495_402.983015741529 - Nr: 2224
+Hit: 11'-Carboxy-gamma-tocotrienol_M+Cl_calc_neg - Feature: 435.234312669094_424.6770945186 - Nr: 2848
+Hit: 11'-Carboxy-gamma-tocotrienol_M+Hac-H_calc_neg - Feature: 459.272800444304_395.781313597832 - Nr: 2103
+Hit: Dihydrocortisol_M-H2O-H_calc_neg - Feature: 345.204799095295_418.583281140353 - Nr: 2663
+Hit: Dihydrocortisol_M-H_calc_neg - Feature: 363.215677740774_388.677143738553 - Nr: 2012
+Hit: Dihydrocortisol_M-H_calc_neg - Feature: 363.215272937475_395.691055388188 - Nr: 2094
+Hit: Sebacic acid_M-H2O-H_calc_neg - Feature: 183.10285236064_310.825463518692 - Nr: 1487
+Hit: Sebacic acid_M-H_calc_neg - Feature: 201.113265182864_264.015769276792 - Nr: 1314
+Hit: Sebacic acid_M-H_calc_neg - Feature: 201.113433405311_291.149489566911 - Nr: 1398
+Hit: Sebacic acid_M+Na-2H_calc_neg - Feature: 223.094943821572_291.17958769972 - Nr: 1399
+Hit: Sebacic acid_M+K-2H_calc_neg - Feature: 239.068316252171_372.574225024142 - Nr: 1870
+Hit: Sebacic acid_M+Hac-H_calc_neg - Feature: 261.134188491891_250.269158982029 - Nr: 1268
+Hit: 25-Acetyl-6,7-didehydrofevicordin F3-glucoside_M+Na-2H_calc_neg - Feature: 725.308545474354_405.355025977289 - Nr: 2334
+Hit: 25-Acetyl-6,7-didehydrofevicordin F3-glucoside_M+FA-H_calc_neg - Feature: 749.334732255575_36.2042167993292 - Nr: 269
+Hit: Tetrahydrocortisol_M-H2O-H_calc_neg - Feature: 347.220744390926_426.843960555428 - Nr: 2918
+Hit: Tetrahydrocortisol_M-H_calc_neg - Feature: 365.231029282233_403.46428942669 - Nr: 2241
+Hit: Tetrahydrocortisol_M+Na-2H_calc_neg - Feature: 387.215461885316_396.070423247354 - Nr: 2112
+Hit: Tetrahydrocortisol_M+FA-H_calc_neg - Feature: 411.238484621685_323.168438198157 - Nr: 1542
+Hit: Pregnenolone_M-H_calc_neg - Feature: 315.234194589655_422.748855431784 - Nr: 2759
+Hit: Pregnenolone_M+Hac-H_calc_neg - Feature: 375.251773632836_442.984210849464 - Nr: 3378
+Hit: MG(0:0/15:0/0:0)_M-H2O-H_calc_neg - Feature: 297.243778417616_393.359365287582 - Nr: 2056
+Hit: MG(0:0/15:0/0:0)_M-H2O-H_calc_neg - Feature: 297.243993425998_403.495018268759 - Nr: 2243
+Hit: MG(0:0/15:0/0:0)_M-H2O-H_calc_neg - Feature: 297.243779251201_418.665660484636 - Nr: 2668
+Hit: MG(0:0/15:0/0:0)_M-H_calc_neg - Feature: 315.253791012821_404.682186459513 - Nr: 2316
+Hit: MG(0:0/15:0/0:0)_M+Na-2H_calc_neg - Feature: 337.23636442213_441.565558543045 - Nr: 3345
+Hit: MG(0:0/15:0/0:0)_M+Hac-H_calc_neg - Feature: 375.275261114961_419.800360827246 - Nr: 2692
+Hit: CPA(16:0/0:0)_M+K-2H_calc_neg - Feature: 429.180143131465_441.839546844043 - Nr: 3351
+Hit: 20-Hydroxy-leukotriene E4_M+Cl_calc_neg - Feature: 490.201662003482_443.431915541078 - Nr: 3386
+Hit: 20-Hydroxy-leukotriene E4_M+FA-H_calc_neg - Feature: 500.230870616631_434.472572055421 - Nr: 3187
+Hit: Prostaglandin E2_M-H2O-H_calc_neg - Feature: 333.207074325539_318.835298796099 - Nr: 1517
+Hit: Prostaglandin E2_M-H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: Prostaglandin E2_M-H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: Prostaglandin E2_M+Hac-H_calc_neg - Feature: 411.238484621685_323.168438198157 - Nr: 1542
+Hit: 13S-hydroxyoctadecadienoic acid_M-H2O-H_calc_neg - Feature: 277.217594108582_418.686349183189 - Nr: 2670
+Hit: 13S-hydroxyoctadecadienoic acid_M-H_calc_neg - Feature: 295.227986584127_395.637558652509 - Nr: 2086
+Hit: 13S-hydroxyoctadecadienoic acid_M+Na-2H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: TG(10:0/13:0/8:0)_M-2H_calc_neg - Feature: 283.228123949042_394.64490945491 - Nr: 2073
+Hit: TG(10:0/13:0/8:0)_M-2H_calc_neg - Feature: 283.228119829973_411.593300508624 - Nr: 2469
+Hit: PC(18:1(9Z)/18:1(9Z))_M+Na-2H_calc_neg - Feature: 806.5712083402_511.131110583021 - Nr: 4050
+Hit: PC(18:1(9Z)/18:1(9Z))_M+Cl_calc_neg - Feature: 820.562579072894_544.607019853777 - Nr: 4326
+Hit: PC(18:1(9Z)/18:1(9Z))_M+FA-H_calc_neg - Feature: 830.59193495484_544.507518381545 - Nr: 4318
+Hit: 3-Phenylpropyl isovalerate_M+Na-2H_calc_neg - Feature: 241.118709519116_194.153347971971 - Nr: 1186
+Hit: MG(0:0/14:1(9Z)/0:0)_M-H_calc_neg - Feature: 299.223576877563_393.958506120075 - Nr: 2068
+Hit: MG(0:0/14:1(9Z)/0:0)_M+Na-2H_calc_neg - Feature: 321.206283532395_393.546213259776 - Nr: 2062
+Hit: MG(0:0/14:1(9Z)/0:0)_M+Na-2H_calc_neg - Feature: 321.205335727452_421.575650322919 - Nr: 2737
+Hit: MG(0:0/14:1(9Z)/0:0)_M+FA-H_calc_neg - Feature: 345.226911945061_297.172005320328 - Nr: 1432
+Hit: MG(14:1(9Z)/0:0/0:0)_M-H_calc_neg - Feature: 299.223576877563_393.958506120075 - Nr: 2068
+Hit: MG(14:1(9Z)/0:0/0:0)_M+Na-2H_calc_neg - Feature: 321.206283532395_393.546213259776 - Nr: 2062
+Hit: MG(14:1(9Z)/0:0/0:0)_M+Na-2H_calc_neg - Feature: 321.205335727452_421.575650322919 - Nr: 2737
+Hit: MG(14:1(9Z)/0:0/0:0)_M+FA-H_calc_neg - Feature: 345.226911945061_297.172005320328 - Nr: 1432
+Hit: 13-OxoODE_M-H2O-H_calc_neg - Feature: 275.201741331064_411.390400322114 - Nr: 2463
+Hit: 13-OxoODE_M-H_calc_neg - Feature: 293.211952634994_378.00970471009 - Nr: 1955
+Hit: 13-OxoODE_M-H_calc_neg - Feature: 293.211830653296_389.694762685464 - Nr: 2021
+Hit: 13-OxoODE_M+Cl_calc_neg - Feature: 329.18731745557_387.740697830719 - Nr: 2001
+Hit: 13-OxoODE_M+Hac-H_calc_neg - Feature: 353.230606805108_416.440855223421 - Nr: 2592
+Hit: Cyclohexaneundecanoic acid_M-H_calc_neg - Feature: 267.233105095802_429.33213145758 - Nr: 2964
+Hit: Cyclohexaneundecanoic acid_M-H_calc_neg - Feature: 267.234119762343_447.795338692149 - Nr: 3421
+Hit: Cyclohexaneundecanoic acid_M+FA-H_calc_neg - Feature: 313.238290368088_360.321694930014 - Nr: 1801
+Hit: Cyclohexaneundecanoic acid_M+FA-H_calc_neg - Feature: 313.238575309454_401.128150231983 - Nr: 2202
+Hit: Cyclohexaneundecanoic acid_M+FA-H_calc_neg - Feature: 313.23911202453_433.427105609654 - Nr: 3061
+Hit: Cyclohexaneundecanoic acid_M+Hac-H_calc_neg - Feature: 327.254012603253_408.361467409408 - Nr: 2389
+Hit: Cyclohexaneundecanoic acid_M+Hac-H_calc_neg - Feature: 327.25203355809_437.375930937678 - Nr: 3244
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M-H2O-H_calc_neg - Feature: 253.21772168947_421.673051889427 - Nr: 2743
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M-H_calc_neg - Feature: 271.228307488837_388.18574180012 - Nr: 2005
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M-H_calc_neg - Feature: 271.227911914051_399.537054724666 - Nr: 2170
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M-H_calc_neg - Feature: 271.228647850156_410.183677072174 - Nr: 2450
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M-H_calc_neg - Feature: 271.228098206857_414.737683020292 - Nr: 2561
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M+Na-2H_calc_neg - Feature: 293.211952634994_378.00970471009 - Nr: 1955
+Hit: (R)-3-Hydroxy-hexadecanoic acid_M+Na-2H_calc_neg - Feature: 293.211830653296_389.694762685464 - Nr: 2021
+Hit: (Z)-15-Oxo-11-eicosenoic acid_M-H2O-H_calc_neg - Feature: 305.248948148135_432.994060442526 - Nr: 3039
+Hit: (Z)-15-Oxo-11-eicosenoic acid_M+Na-2H_calc_neg - Feature: 345.243342935125_396.997177673425 - Nr: 2121
+Hit: (Z)-15-Oxo-11-eicosenoic acid_M+Na-2H_calc_neg - Feature: 345.243723876119_409.592529190094 - Nr: 2397
+Hit: 16-alpha-Hydroxyandrosterone_M+FA-H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: 16-alpha-Hydroxyandrosterone_M+FA-H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: 16-alpha-Hydroxyandrosterone_M+Hac-H_calc_neg - Feature: 365.231029282233_403.46428942669 - Nr: 2241
+Hit: 12-HEPE_M-H2O-H_calc_neg - Feature: 299.202337908414_413.411051036031 - Nr: 2515
+Hit: 12-HEPE_M-H_calc_neg - Feature: 317.212478267136_386.617223347835 - Nr: 1997
+Hit: 12-HEPE_M+FA-H_calc_neg - Feature: 363.215677740774_388.677143738553 - Nr: 2012
+Hit: 12-HEPE_M+FA-H_calc_neg - Feature: 363.215272937475_395.691055388188 - Nr: 2094
+Hit: 9-hydroxyoctadecanoic acid_M-H2O-H_calc_neg - Feature: 281.248751950127_373.517673280651 - Nr: 1884
+Hit: 9-hydroxyoctadecanoic acid_M-H2O-H_calc_neg - Feature: 281.250080442012_437.406804472336 - Nr: 3248
+Hit: 9-hydroxyoctadecanoic acid_M-H_calc_neg - Feature: 299.259513779904_404.069540593818 - Nr: 2273
+Hit: 9-hydroxyoctadecanoic acid_M-H_calc_neg - Feature: 299.259655459526_452.529044658295 - Nr: 3440
+Hit: 9-hydroxyoctadecanoic acid_M+Na-2H_calc_neg - Feature: 321.243568231792_403.883929690712 - Nr: 2264
+Hit: LysoPC(16:0)_M-H_calc_neg - Feature: 494.324881389093_415.77517142046 - Nr: 2576
+Hit: LysoPC(16:0)_M+Cl_calc_neg - Feature: 530.303157448906_409.74965639115 - Nr: 2402
+Hit: LysoPC(16:0)_M+FA-H_calc_neg - Feature: 540.330906038357_409.838257792604 - Nr: 2431
+Hit: LysoPC(16:0)_M+FA-H_calc_neg - Feature: 540.331629513562_446.695776087129 - Nr: 3414
+Hit: LysoPC(16:0)_M+Hac-H_calc_neg - Feature: 554.346170077767_415.75418469033 - Nr: 2574
+Hit: Undecanedioic acid_M-H_calc_neg - Feature: 215.129066701158_291.180491342842 - Nr: 1400
+Hit: Undecanedioic acid_M-H_calc_neg - Feature: 215.129045437424_313.480806587898 - Nr: 1500
+Hit: Undecanedioic acid_M+Na-2H_calc_neg - Feature: 237.111428006435_313.392082775457 - Nr: 1499
+Hit: Undecanedioic acid_M+Na-2H_calc_neg - Feature: 237.109738753455_342.5749211086 - Nr: 1698
+Hit: Undecanedioic acid_M+K-2H_calc_neg - Feature: 253.083468002373_367.148488625076 - Nr: 1848
+Hit: Undecanedioic acid_M+FA-H_calc_neg - Feature: 261.134188491891_250.269158982029 - Nr: 1268
+Hit: LysoPC(20:3(5Z,8Z,11Z))_M+FA-H_calc_neg - Feature: 590.345699136228_409.820762998103 - Nr: 2424
+Hit: Eicosapentaenoic acid_M-H_calc_neg - Feature: 301.217682535309_417.493669963816 - Nr: 2616
+Hit: Eicosapentaenoic acid_M+Cl_calc_neg - Feature: 337.192633106294_426.957232395191 - Nr: 2933
+Hit: Eicosapentaenoic acid_M+FA-H_calc_neg - Feature: 347.220744390926_426.843960555428 - Nr: 2918
+Hit: MG(0:0/18:2(9Z,12Z)/0:0)_M+Na-2H_calc_neg - Feature: 375.251773632836_442.984210849464 - Nr: 3378
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_M-H2O-H_calc_neg - Feature: 375.251773632836_442.984210849464 - Nr: 3378
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_M-H_calc_neg - Feature: 393.261942089546_416.986618688779 - Nr: 2600
+Hit: 11-Hydroxyeicosatetraenoate glycerylester_M+Hac-H_calc_neg - Feature: 453.281590012011_410.151980865731 - Nr: 2447
+Hit: 3-Hydroxy-9-hexadecenoylcarnitine_M+K-2H_calc_neg - Feature: 450.260684318834_399.380045142574 - Nr: 2166
+Hit: MG(0:0/14:0/0:0)_M-H2O-H_calc_neg - Feature: 283.228123949042_394.64490945491 - Nr: 2073
+Hit: MG(0:0/14:0/0:0)_M-H2O-H_calc_neg - Feature: 283.228119829973_411.593300508624 - Nr: 2469
+Hit: MG(0:0/14:0/0:0)_M+Na-2H_calc_neg - Feature: 323.220928178945_433.820637662343 - Nr: 3153
+Hit: MG(0:0/14:0/0:0)_M+FA-H_calc_neg - Feature: 347.24406939833_318.461844487422 - Nr: 1515
+Hit: Prostaglandin E3_M-H_calc_neg - Feature: 349.201780282409_278.549355548478 - Nr: 1367
+Hit: Palmitoleic acid_M-H_calc_neg - Feature: 253.21772168947_421.673051889427 - Nr: 2743
+Hit: Palmitoleic acid_M+Na-2H_calc_neg - Feature: 275.201741331064_411.390400322114 - Nr: 2463
+Hit: Palmitoleic acid_M+FA-H_calc_neg - Feature: 299.223576877563_393.958506120075 - Nr: 2068
+Hit: Palmitoleic acid_M+Hac-H_calc_neg - Feature: 313.238290368088_360.321694930014 - Nr: 1801
+Hit: Palmitoleic acid_M+Hac-H_calc_neg - Feature: 313.238575309454_401.128150231983 - Nr: 2202
+Hit: Palmitoleic acid_M+Hac-H_calc_neg - Feature: 313.23911202453_433.427105609654 - Nr: 3061
+Hit: (E)-6-Hexadecenoic acid_M-H_calc_neg - Feature: 253.21772168947_421.673051889427 - Nr: 2743
+Hit: (E)-6-Hexadecenoic acid_M+Na-2H_calc_neg - Feature: 275.201741331064_411.390400322114 - Nr: 2463
+Hit: (E)-6-Hexadecenoic acid_M+FA-H_calc_neg - Feature: 299.223576877563_393.958506120075 - Nr: 2068
+Hit: (E)-6-Hexadecenoic acid_M+Hac-H_calc_neg - Feature: 313.238290368088_360.321694930014 - Nr: 1801
+Hit: (E)-6-Hexadecenoic acid_M+Hac-H_calc_neg - Feature: 313.238575309454_401.128150231983 - Nr: 2202
+Hit: (E)-6-Hexadecenoic acid_M+Hac-H_calc_neg - Feature: 313.23911202453_433.427105609654 - Nr: 3061
+Hit: 3-Pentadecenal_M+FA-H_calc_neg - Feature: 269.212542802822_385.604737432148 - Nr: 1978
+Hit: 3-Pentadecenal_M+FA-H_calc_neg - Feature: 269.212404512516_400.862757172685 - Nr: 2192
+Hit: 3-Pentadecenal_M+FA-H_calc_neg - Feature: 269.212273816439_421.282713172862 - Nr: 2720
+Hit: 3-Pentadecenal_M+Hac-H_calc_neg - Feature: 283.228123949042_394.64490945491 - Nr: 2073
+Hit: 3-Pentadecenal_M+Hac-H_calc_neg - Feature: 283.228119829973_411.593300508624 - Nr: 2469
+Hit: Arachidonic acid_M-2H_calc_neg - Feature: 151.113092647946_324.91633480331 - Nr: 1571
+Hit: Arachidonic acid_M-H_calc_neg - Feature: 303.233332286997_425.131234598883 - Nr: 2863
+Hit: Arachidonic acid_M+FA-H_calc_neg - Feature: 349.236570133467_437.535719262535 - Nr: 3265
+Hit: 18-Hydroxycorticosterone_M+Cl_calc_neg - Feature: 397.178631285847_300.898371316859 - Nr: 1445
+Hit: 18-Hydroxycorticosterone_M+FA-H_calc_neg - Feature: 407.207444493675_300.897867822953 - Nr: 1444
+Hit: PA(16:0/16:0)_M-H2O-H_calc_neg - Feature: 629.454270846973_425.585338345344 - Nr: 2873
+Hit: Cortisol_M+Cl_calc_neg - Feature: 397.178631285847_300.898371316859 - Nr: 1445
+Hit: Cortisol_M+FA-H_calc_neg - Feature: 407.207444493675_300.897867822953 - Nr: 1444
+Hit: 9,12,13-TriHOME_M-H2O-H_calc_neg - Feature: 311.22282346958_366.777898277064 - Nr: 1844
+Hit: 9,12,13-TriHOME_M-H_calc_neg - Feature: 329.233482922963_339.084906161096 - Nr: 1667
+Hit: 9,12,13-TriHOME_M-H_calc_neg - Feature: 329.233465385971_356.277481268824 - Nr: 1776
+Hit: 9,12,13-TriHOME_M-H_calc_neg - Feature: 329.233437037181_378.5050653261 - Nr: 1959
+Hit: 9,12,13-TriHOME_M+Na-2H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: 9,12,13-TriHOME_M+Na-2H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: 9,12,13-TriHOME_M+Cl_calc_neg - Feature: 365.21048841603_434.865875107241 - Nr: 3195
+Hit: 9,12,13-TriHOME_M+K-2H_calc_neg - Feature: 367.189403854099_413.130992668066 - Nr: 2499
+Hit: DG(15:0/18:2(9Z,12Z)/0:0)_M-H2O-H_calc_neg - Feature: 559.471330664639_437.267695148688 - Nr: 3238boundary (singular) fit: see help('isSingular')
+
+Hit: 9E-Heptadecenoic acid_M-H_calc_neg - Feature: 267.233105095802_429.33213145758 - Nr: 2964
+Hit: 9E-Heptadecenoic acid_M-H_calc_neg - Feature: 267.234119762343_447.795338692149 - Nr: 3421
+Hit: 9E-Heptadecenoic acid_M+FA-H_calc_neg - Feature: 313.238290368088_360.321694930014 - Nr: 1801
+Hit: 9E-Heptadecenoic acid_M+FA-H_calc_neg - Feature: 313.238575309454_401.128150231983 - Nr: 2202
+Hit: 9E-Heptadecenoic acid_M+FA-H_calc_neg - Feature: 313.23911202453_433.427105609654 - Nr: 3061
+Hit: 9E-Heptadecenoic acid_M+Hac-H_calc_neg - Feature: 327.254012603253_408.361467409408 - Nr: 2389
+Hit: 9E-Heptadecenoic acid_M+Hac-H_calc_neg - Feature: 327.25203355809_437.375930937678 - Nr: 3244
+Hit: 9,10,13-TriHOME_M-H2O-H_calc_neg - Feature: 311.22282346958_366.777898277064 - Nr: 1844
+Hit: 9,10,13-TriHOME_M-H_calc_neg - Feature: 329.233482922963_339.084906161096 - Nr: 1667
+Hit: 9,10,13-TriHOME_M-H_calc_neg - Feature: 329.233465385971_356.277481268824 - Nr: 1776
+Hit: 9,10,13-TriHOME_M-H_calc_neg - Feature: 329.233437037181_378.5050653261 - Nr: 1959
+Hit: 9,10,13-TriHOME_M+Na-2H_calc_neg - Feature: 351.217158742126_280.459805068528 - Nr: 1370
+Hit: 9,10,13-TriHOME_M+Na-2H_calc_neg - Feature: 351.216684590946_355.527270922684 - Nr: 1773
+Hit: 9,10,13-TriHOME_M+Cl_calc_neg - Feature: 365.21048841603_434.865875107241 - Nr: 3195
+Hit: 9,10,13-TriHOME_M+K-2H_calc_neg - Feature: 367.189403854099_413.130992668066 - Nr: 2499
+Hit: 5,8,11-Eicosatrienoic acid_M-H_calc_neg - Feature: 305.248948148135_432.994060442526 - Nr: 3039
+Hit: 5,8,11-Eicosatrienoic acid_M+Na-2H_calc_neg - Feature: 327.233279118991_423.85664143018 - Nr: 2826
+Hit: 5,8,11-Eicosatrienoic acid_M+Cl_calc_neg - Feature: 341.22346230051_454.867412735602 - Nr: 3606
+Hit: 5,8,11-Eicosatrienoic acid_M+FA-H_calc_neg - Feature: 351.252198389606_452.827980077548 - Nr: 3529
+Hit: 5,8,11-Eicosatrienoic acid_M+Hac-H_calc_neg - Feature: 365.267209702831_462.313396880847 - Nr: 3664
+Hit: 3-Hexaprenyl-4-hydroxybenzoic acid_M-2H_calc_neg - Feature: 272.195375209214_374.509171420118 - Nr: 1916
+Hit: LysoPA(24:1(15Z)/0:0)_M+FA-H_calc_neg - Feature: 565.347325232752_456.115956325812 - Nr: 3618
+Hit: Adrenic acid_M-H_calc_neg - Feature: 331.264725884431_437.783728666357 - Nr: 3289
+Hit: Adrenic acid_M+FA-H_calc_neg - Feature: 377.272668854724_420.153221550166 - Nr: 2696
+Hit: Adrenic acid_M+FA-H_calc_neg - Feature: 377.267368185516_456.397074438117 - Nr: 3626
+Hit: Adrenic acid_M+Hac-H_calc_neg - Feature: 391.285490441578_376.891826233611 - Nr: 1945boundary (singular) fit: see help('isSingular')
+
+Hit: Adrenic acid_M+Hac-H_calc_neg - Feature: 391.288215563112_432.21100866528 - Nr: 3024
+Hit: 2'-Apo-beta-carotenal_M+Cl_calc_neg - Feature: 543.338929497059_409.835464369287 - Nr: 2428
+Hit: 2'-Apo-beta-carotenal_M+FA-H_calc_neg - Feature: 553.369770374265_421.487701877337 - Nr: 2731
+Hit: 2'-Apo-beta-carotenal_M+FA-H_calc_neg - Feature: 553.370564043262_430.225782799966 - Nr: 3007
+Hit: Hypoxanthine_M+Na-2H_calc_neg - Feature: 157.011772790603_80.6103899621741 - Nr: 1052
+Hit: Hypoxanthine_M+FA-H_calc_neg - Feature: 181.037060235864_53.1914891825849 - Nr: 996
+Hit: Hypoxanthine_M+FA-H_calc_neg - Feature: 181.036762254218_112.519186389019 - Nr: 1089
+Hit: Pyridoxamine 5'-phosphate_M+Cl_calc_neg - Feature: 283.028203110842_284.203510319591 - Nr: 1382
+Hit: Pyridoxamine 5'-phosphate_M+FA-H_calc_neg - Feature: 293.054684970314_53.3605337634805 - Nr: 1001
+Hit: Adenine_M-H2O-H_calc_neg - Feature: 116.036230661041_52.4828772019541 - Nr: 879
+Hit: Adlupone_M+FA-H_calc_neg - Feature: 527.338561617167_420.637978674423 - Nr: 2703
+Hit: Thiamine_M-H_calc_neg - Feature: 264.106797265139_169.741803574959 - Nr: 1161
+Hit: Dextrorphan O-glucuronide_M-H2O-H_calc_neg - Feature: 414.194885892744_419.086528914321 - Nr: 2678
+Hit: Dextrorphan O-glucuronide_M+Cl_calc_neg - Feature: 468.183376510097_440.444311671287 - Nr: 3320
+Hit: Dextrorphan O-glucuronide_M+K-2H_calc_neg - Feature: 470.160575685845_426.792009417318 - Nr: 2907
+Hit: 2-Oxoarginine_M-H2O-H_calc_neg - Feature: 154.062377870718_39.154444625423 - Nr: 560
+Hit: (R)-3-Hydroxy-5-phenylpentanoic acid_M-H_calc_neg - Feature: 193.088043812642_321.445862822754 - Nr: 1537
+Hit: (R)-3-Hydroxy-5-phenylpentanoic acid_M+FA-H_calc_neg - Feature: 239.092873529338_324.898807099302 - Nr: 1566
+Hit: 3-Hydroxysebacic acid_M-H_calc_neg - Feature: 217.107736676859_212.427583296449 - Nr: 1229
+Hit: 3-Hydroxysebacic acid_M+Cl_calc_neg - Feature: 253.083468002373_367.148488625076 - Nr: 1848
+Hit: Phenylbutyrylglutamine_M+Na-2H_calc_neg - Feature: 313.119339873351_309.102673934784 - Nr: 1483
+Hit: (R)-3-Hydroxydecanoic acid_M-H_calc_neg - Feature: 187.133913302704_298.420465566495 - Nr: 1434
+Hit: (R)-3-Hydroxydecanoic acid_M-H_calc_neg - Feature: 187.134142556825_334.948578004547 - Nr: 1643
+Hit: (R)-3-Hydroxydecanoic acid_M-H_calc_neg - Feature: 187.13416653522_347.22852291132 - Nr: 1719
+Hit: (R)-3-Hydroxydecanoic acid_M+Cl_calc_neg - Feature: 223.108607798517_276.420863340132 - Nr: 1363
+Hit: 3-Oxodecanoic acid_M-H_calc_neg - Feature: 185.118287457703_279.650660765788 - Nr: 1368
+Hit: 3-Oxodecanoic acid_M-H_calc_neg - Feature: 185.118318368847_315.72309176758 - Nr: 1505
+Hit: 3-Oxodecanoic acid_M-H_calc_neg - Feature: 185.118418289629_331.493877912081 - Nr: 1594
+Hit: 3-Oxodecanoic acid_M+Hac-H_calc_neg - Feature: 245.139318222797_270.48463027092 - Nr: 1349
+Hit: 3-Hydroxycapric acid_M-H_calc_neg - Feature: 187.133913302704_298.420465566495 - Nr: 1434
+Hit: 3-Hydroxycapric acid_M-H_calc_neg - Feature: 187.134142556825_334.948578004547 - Nr: 1643
+Hit: 3-Hydroxycapric acid_M-H_calc_neg - Feature: 187.13416653522_347.22852291132 - Nr: 1719
+Hit: 3-Hydroxycapric acid_M+Cl_calc_neg - Feature: 223.108607798517_276.420863340132 - Nr: 1363
+Hit: 3-Oxododecanoic acid_M-H2O-H_calc_neg - Feature: 195.139267447877_341.648953724832 - Nr: 1683
+Hit: 3-Oxododecanoic acid_M-H_calc_neg - Feature: 213.149804398251_355.671548047214 - Nr: 1774
+Hit: 3-Oxododecanoic acid_M+FA-H_calc_neg - Feature: 259.155084679772_293.805594211582 - Nr: 1417
+Hit: 5-Methoxytryptamine_M+Na-2H_calc_neg - Feature: 211.083377867345_136.254251837611 - Nr: 1121
+Hit: Pyroglutamate_M-H_calc_neg - Feature: 128.035962256235_52.9096697494766 - Nr: 963
+Hit: Pyroglutamate_M-H_calc_neg - Feature: 128.035498332184_73.0561037547861 - Nr: 1045
+Hit: Pyroglutamate_M-H_calc_neg - Feature: 128.035364233446_86.850502479014 - Nr: 1062
+Hit: Methionine_M-H_calc_neg - Feature: 148.044787690892_52.715762941677 - Nr: 922
+Hit: Methionine_M+Cl_calc_neg - Feature: 184.019479612784_52.9662151604982 - Nr: 979
+Hit: 5-acetamidovalerate_M+FA-H_calc_neg - Feature: 204.08581421585_147.878280455237 - Nr: 1131
+Hit: N-Acetylaminooctanoic acid_M-H_calc_neg - Feature: 200.12966858107_296.491593236192 - Nr: 1431
+Hit: N-Acetylaminooctanoic acid_M+Cl_calc_neg - Feature: 236.105688118655_342.609984094211 - Nr: 1700
+Hit: 4-Hydroxy-3-methoxy-cinnamoylglycine_M-H2O-H_calc_neg - Feature: 232.058892647229_122.118392827728 - Nr: 1109
+Hit: 4-Hydroxy-3-methoxy-cinnamoylglycine_M-H2O-H_calc_neg - Feature: 232.05957030168_272.977590304261 - Nr: 1355
+Hit: 4-Hydroxy-3-methoxy-cinnamoylglycine_M+Cl_calc_neg - Feature: 286.05163259406_361.614348552294 - Nr: 1807
+Hit: Alpha-N-Phenylacetyl-L-glutamine_M-H_calc_neg - Feature: 263.103656124028_169.613180535082 - Nr: 1160
+Hit: N-Acetylleucine_M-H_calc_neg - Feature: 172.097960120929_184.983844410674 - Nr: 1177
+Hit: Octenoylglycine_M-H2O-H_calc_neg - Feature: 180.103112507021_317.924642119715 - Nr: 1513
+Hit: Hydroxyphenylacetylglycine_M+Cl_calc_neg - Feature: 244.036620497555_257.105742757633 - Nr: 1301
+Hit: 8-Hydroxy-5,6-octadienoic acid_M-H_calc_neg - Feature: 155.071449994888_264.534622506995 - Nr: 1323
+Hit: 8-Hydroxy-5,6-octadienoic acid_M-H_calc_neg - Feature: 155.07155269352_293.718165289762 - Nr: 1413
+Hit: N-Heptanoylglycine_M-H_calc_neg - Feature: 186.113058219766_210.182308900716 - Nr: 1228
+Hit: N-Heptanoylglycine_M-H_calc_neg - Feature: 186.113813470677_434.560634946187 - Nr: 3188
+Hit: N-Heptanoylglycine_M-H_calc_neg - Feature: 186.113789823329_452.790361633017 - Nr: 3509
+Hit: cis-4-Decenedioic acid_M-H2O-H_calc_neg - Feature: 181.08690547712_272.814357171923 - Nr: 1353
+Hit: 2-trans,4-cis-Decadienoylcarnitine_M-H_calc_neg - Feature: 310.203268809962_363.834291735876 - Nr: 1820
+Hit: 2-trans,4-cis-Decadienoylcarnitine_M+Cl_calc_neg - Feature: 346.177564114105_456.182827968492 - Nr: 3620
+Hit: 4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid_M-H2O-H_calc_neg - Feature: 207.066285731591_281.340637007328 - Nr: 1371
+Hit: 4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid_M+K-2H_calc_neg - Feature: 263.031806027259_178.281539463386 - Nr: 1171
+Hit: N1,N12-Diacetylspermine_M+Cl_calc_neg - Feature: 321.206283532395_393.546213259776 - Nr: 2062
+Hit: N1,N12-Diacetylspermine_M+Cl_calc_neg - Feature: 321.205335727452_421.575650322919 - Nr: 2737
+Hit: Hippurate_M+Cl_calc_neg - Feature: 214.025991000475_264.551294556702 - Nr: 1325
+Hit: Hippurate_M+K-2H_calc_neg - Feature: 216.005080913335_213.486369460247 - Nr: 1233
+Hit: Hydroxyhippurate_M-H_calc_neg - Feature: 194.045861777359_126.830162690494 - Nr: 1113boundary (singular) fit: see help('isSingular')
+
+Hit: Hydroxyhippurate_M-H_calc_neg - Feature: 194.045863987582_145.219681213155 - Nr: 1124
+Hit: Hydroxyhippurate_M-H_calc_neg - Feature: 194.045870245537_175.316570670685 - Nr: 1164
+Hit: Hydroxyhippurate_M-H_calc_neg - Feature: 194.045925861389_206.832713179497 - Nr: 1225
+Hit: Phenylacetylglutamine_M-H_calc_neg - Feature: 263.103656124028_169.613180535082 - Nr: 1160
+Hit: 4-Pyridoxic acid_M-H2O-H_calc_neg - Feature: 164.035300895845_99.4028070074267 - Nr: 1077
+Hit: 4-Pyridoxic acid_M-H2O-H_calc_neg - Feature: 164.035387022682_114.351817636679 - Nr: 1092
+Hit: alpha-D-Glucose_M-2H_calc_neg - Feature: 89.0248987450634_53.008785402965 - Nr: 987
+Hit: alpha-D-Glucose_M-2H_calc_neg - Feature: 89.0244487121473_81.0551622027419 - Nr: 1057
+Hit: alpha-D-Glucose_M-H_calc_neg - Feature: 179.056498951926_43.4825185985469 - Nr: 637
+Hit: alpha-D-Glucose_M+Na-2H_calc_neg - Feature: 201.03788020754_81.1626770025948 - Nr: 1058
+Hit: alpha-D-Glucose_M+Cl_calc_neg - Feature: 215.032862605212_41.8209545521061 - Nr: 582
+Hit: alpha-D-Glucose_M+Cl_calc_neg - Feature: 215.032951384174_66.0118359561774 - Nr: 1023
+Hit: alpha-D-Glucose_M+Cl_calc_neg - Feature: 215.032781090154_121.343218952971 - Nr: 1103
+Hit: alpha-D-Glucose_M+FA-H_calc_neg - Feature: 225.063059547104_53.2819377552443 - Nr: 999
+Hit: 3-Hydroxydodecanedioic acid_M-H2O-H_calc_neg - Feature: 227.129719007781_341.464770826446 - Nr: 1681
+Hit: 3-Hydroxydodecanedioic acid_M-H_calc_neg - Feature: 245.139318222797_270.48463027092 - Nr: 1349
+Hit: Glutamylproline_M+FA-H_calc_neg - Feature: 289.104504508461_359.496548321751 - Nr: 1796
+Hit: Picolinic acid_M+K-2H_calc_neg - Feature: 159.980403508153_530.848297841386 - Nr: 4198
+Hit: Picolinic acid_M+FA-H_calc_neg - Feature: 168.030335880911_127.608981064647 - Nr: 1114
+Hit: PE(20:0/18:2)_M-H_calc_neg - Feature: 770.56942245319_544.55486961755 - Nr: 4323
+Hit: PE(20:0/18:2)_M+FA-H_calc_neg - Feature: 816.574855796616_403.887812572698 - Nr: 2265
+Hit: PE(20:0/18:2)_M+FA-H_calc_neg - Feature: 816.574656661414_526.167537840448 - Nr: 4173
+Hit: PE(20:0/18:2)_M+Hac-H_calc_neg - Feature: 830.59193495484_544.507518381545 - Nr: 4318
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M-2H_calc_neg - Feature: 221.153536911104_342.678588652929 - Nr: 1704
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M-2H_calc_neg - Feature: 221.155010667772_378.431479124844 - Nr: 1957
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M+Cl_calc_neg - Feature: 479.296918080153_398.813865914908 - Nr: 2146
+Hit:  5,6:8,9-diepoxyergost-22-ene-3,7beta-diol_M+Cl_calc_neg - Feature: 479.29713304185_413.777442017761 - Nr: 2541
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M-2H_calc_neg - Feature: 116.0726947899_51.0438184492969 - Nr: 874
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M-H_calc_neg - Feature: 233.155032209399_372.075302797094 - Nr: 1866
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+Hac-H_calc_neg - Feature: 293.176362855751_342.644105692277 - Nr: 1701
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+Hac-H_calc_neg - Feature: 293.178342075602_435.267946099111 - Nr: 3203
+Hit: 2-methyl-4-phenyl-2-butyl 2-methylpropanoate_M+Hac-H_calc_neg - Feature: 293.178629864146_452.83624029694 - Nr: 3532
+Hit: 2,3-epoxymenaquinone_M+FA-H_calc_neg - Feature: 369.174387617375_317.748368231753 - Nr: 1510
+Hit: 2,3-epoxymenaquinone_M+FA-H_calc_neg - Feature: 369.174342324652_441.525606250803 - Nr: 3344
+Hit: 2,3-epoxymenaquinone_M+Hac-H_calc_neg - Feature: 383.189985763229_453.030835916033 - Nr: 3559
+Hit: PC(22:6/18:0)-v1_M+K-2H_calc_neg - Feature: 870.547876855009_511.929796735436 - Nr: 4058
+Hit: PC(22:6/18:0)-v1_M+FA-H_calc_neg - Feature: 878.590828639815_534.164000935596 - Nr: 4232
+Hit: PC(22:6/18:0)-v2_M+Cl_calc_neg - Feature: 852.576059007704_520.709651317633 - Nr: 4114
+Hit: PC(22:6/18:0)-v2_M+Cl_calc_neg - Feature: 852.575226375643_530.046697915591 - Nr: 4196
+Hit: PC(22:6/18:0)-v2_M+FA-H_calc_neg - Feature: 862.594690440514_529.003263782706 - Nr: 4188
+Hit: PE(p-16:0/20:4)_M-H_calc_neg - Feature: 722.512217703844_522.985222307355 - Nr: 4151
+Hit: PE(p-16:0/20:4)_M+FA-H_calc_neg - Feature: 768.520661997386_436.811074968177 - Nr: 3214
+Hit: Diacetylspermine_M+Cl_calc_neg - Feature: 321.206283532395_393.546213259776 - Nr: 2062
+Hit: Diacetylspermine_M+Cl_calc_neg - Feature: 321.205335727452_421.575650322919 - Nr: 2737
+Hit: Kynurenine_M+FA-H_calc_neg - Feature: 253.083468002373_367.148488625076 - Nr: 1848
+Hit: Glucose_M-2H_calc_neg - Feature: 89.0248987450634_53.008785402965 - Nr: 987
+Hit: Glucose_M-2H_calc_neg - Feature: 89.0244487121473_81.0551622027419 - Nr: 1057
+Hit: Glucose_M-H_calc_neg - Feature: 179.056498951926_43.4825185985469 - Nr: 637
+Hit: Glucose_M+Na-2H_calc_neg - Feature: 201.03788020754_81.1626770025948 - Nr: 1058
+Hit: Glucose_M+Cl_calc_neg - Feature: 215.032862605212_41.8209545521061 - Nr: 582
+Hit: Glucose_M+Cl_calc_neg - Feature: 215.032951384174_66.0118359561774 - Nr: 1023
+Hit: Glucose_M+Cl_calc_neg - Feature: 215.032781090154_121.343218952971 - Nr: 1103
+Hit: Glucose_M+FA-H_calc_neg - Feature: 225.063059547104_53.2819377552443 - Nr: 999
+Hit:  HPHPA_M+Cl_calc_neg - Feature: 217.029070341375_121.857868252532 - Nr: 1106
+Hit: Beta-hydroxybutyric acid_M-H_calc_neg - Feature: 103.040274245716_55.0695391012756 - Nr: 1005
+Hit: Beta-hydroxybutyric acid_M-H_calc_neg - Feature: 103.04021107792_68.3892284906418 - Nr: 1030
+Hit: Beta-hydroxybutyric acid_M-H_calc_neg - Feature: 103.040229567956_104.062475522537 - Nr: 1085
+Hit: Beta-hydroxybutyric acid_M+FA-H_calc_neg - Feature: 149.046077958678_45.9268247993406 - Nr: 856
+Hit: Hydroxyproline_M-H_calc_neg - Feature: 130.051640813771_53.1007035230194 - Nr: 994
+Hit: Hippuric acid_M+Cl_calc_neg - Feature: 214.025991000475_264.551294556702 - Nr: 1325
+Hit: Hippuric acid_M+K-2H_calc_neg - Feature: 216.005080913335_213.486369460247 - Nr: 1233
+Hit: Butyric acid_M+FA-H_calc_neg - Feature: 133.051635969313_52.9611817147707 - Nr: 978
+Hit: Guanidinoacetate_M+Na-2H_calc_neg - Feature: 138.027732496312_251.806460416158 - Nr: 1284boundary (singular) fit: see help('isSingular')
+
+Hit: 3-methylxanthine_M-H_calc_neg - Feature: 165.042306085627_53.6827621883066 - Nr: 1003
+Hit: 3-methylxanthine_M-H_calc_neg - Feature: 165.041756689057_124.112386244082 - Nr: 1111
+Hit: 3-methylxanthine_M+Hac-H_calc_neg - Feature: 225.063059547104_53.2819377552443 - Nr: 999
+Hit: Bilirubin _M-H_calc_neg - Feature: 583.255072068778_301.384902096313 - Nr: 1455
+Hit: Bilirubin _M+Na-2H_calc_neg - Feature: 605.235900171606_468.102694583769 - Nr: 3719
+Hit: Bilirubin _M+Hac-H_calc_neg - Feature: 643.277204846707_452.354271155067 - Nr: 3433
+Hit: Bilirubin _M+Hac-H_calc_neg - Feature: 643.277066629211_467.912820833596 - Nr: 3705
+Hit: Histidine_M-H_calc_neg - Feature: 154.062377870718_39.154444625423 - Nr: 560                          name   lookup feat_nr                         feat_name  feat_mz  feat_rt           dmz       ppm   meanInt    minInt   maxInt      pRand       FC    FCGeom
+1 D-Ribulose 5-phosphate_mzNeg 210.9931    1145   210.994364807223_155.4644989408 210.9944 155.4645  0.0012648072  5.994543 62277.055  667.2734 222907.3 0.03345278 1.059206 1.0603475
+2   D-Ribose 5-phosphate_mzNeg 210.9934    1145   210.994364807223_155.4644989408 210.9944 155.4645  0.0009648072  4.572689 62277.055  667.2734 222907.3 0.03345278 1.059206 1.0603475
+3   Xylulose 5-phosphate_mzNeg 210.9929    1145   210.994364807223_155.4644989408 210.9944 155.4645  0.0014648072  6.942448 62277.055  667.2734 222907.3 0.03345278 1.059206 1.0603475
+4     Ribose 1-phosphate_mzNeg 210.9933    1145   210.994364807223_155.4644989408 210.9944 155.4645  0.0010648072  5.046640 62277.055  667.2734 222907.3 0.03345278 1.059206 1.0603475
+5   Glycyl-Phenylalanine_mzNeg 221.0840    1300 221.081934345434_255.683367831992 221.0819 255.6834 -0.0020656546 -9.343302  9089.697  142.7036 117293.9 0.05893916 0.919889 0.9875029
+6   Glycyl-Phenylalanine_mzNeg 221.0840    1490  221.08260176329_311.458860482799 221.0826 311.4589 -0.0013982367 -6.324459 23413.125 1688.6178 313729.0 0.49818899 1.019562 1.0034467
+[1] 1051   14
+[1] 332
+[1] "variable" "n"        "est"      "se"       "OR"       "p"       
+                                                                name   lookup feat_nr                         feat_name  feat_mz   feat_rt           dmz        ppm      meanInt       minInt      maxInt
+1                                       D-Ribulose 5-phosphate_mzNeg 210.9931    1145   210.994364807223_155.4644989408 210.9944 155.46450  1.264807e-03  5.9945431    62277.055    667.27343   222907.33
+7                                          Prolylphenylalanine_mzNeg 243.1162    1640 243.116884629774_334.559954147637 243.1169 334.55995  6.846298e-04  2.8160599     6262.883    258.64193    12075.93
+13                                          Tetrahydrocortisol_mzNeg 411.2367    1542 411.238484621685_323.168438198157 411.2385 323.16844  1.784622e-03  4.3396460    23050.942    155.92921    84612.07
+26                                            3 Hydroxyquinine_mzNeg 385.1649    1429 385.168336129376_296.166364892947 385.1683 296.16636  3.436129e-03  8.9211903    85780.030    398.55316   339233.57
+46                              fructose 6-phosphate_M+K-2H_calc_neg 296.9783    1148 296.979796091811_155.812421590774 296.9798 155.81242  1.471592e-03  4.9552162    40229.583    300.52944   173334.67
+73                                         Methionine _M+Cl_calc_neg 184.0205     979 184.019479612784_52.9662151604982 184.0195  52.96622 -9.716872e-04 -5.2803219    18161.048    227.67586    28618.85
+81                                         L-Tryptophan_M-H_calc_neg 203.0826    1130 203.082837216501_147.870911793374 203.0828 147.87091  2.356165e-04  1.1602003  1970006.763   1298.63120  6183791.46
+101                           gamma-Glutamylglycine_M-H2O-H_calc_neg 185.0562     947 185.057256758981_52.8602624128629 185.0573  52.86026  1.025259e-03  5.5402565     7503.428     66.43602    57362.23
+132                              18-Hydroxycortisol_M+Na-2H_calc_neg 399.1789    3383 399.180420386116_443.247026867039 399.1804 443.24703  1.515686e-03  3.7970096    42392.533   2131.49368    93132.54
+139           11-beta-Hydroxyandrosterone-3-glucuronide_M-H_calc_neg 481.2443    1472 481.243697046473_305.593420413943 481.2437 305.59342 -6.097535e-04 -1.2670353    63425.823    494.91748   331730.67
+151                                        17 HDoHE_M+Na-2H_calc_neg 365.2098    3195  365.21048841603_434.865875107241 365.2105 434.86588  6.775160e-04  1.8551419    16096.648   1142.79131    37170.52
+164                                    Sebacic acid_M-H2O-H_calc_neg 183.1021    1487  183.10285236064_310.825463518692 183.1029 310.82546  7.332606e-04  4.0046540    49046.924   2535.30025   252693.16
+203                             MG(0:0/14:1(9Z)/0:0)_M+FA-H_calc_neg 345.2283    1432 345.226911945061_297.172005320328 345.2269 297.17201 -1.348555e-03 -3.9062704     5498.313     89.35918    50200.31
+244                                     LysoPC(16:0)_M+FA-H_calc_neg 540.3307    2431 540.330906038357_409.838257792604 540.3309 409.83826  2.155384e-04  0.3989008 18975242.430 778465.97341 25991314.00
+281                                   3-Pentadecenal_M+FA-H_calc_neg 269.2122    2720 269.212273816439_421.282713172862 269.2123 421.28271  5.731644e-05  0.2129043    62130.995   5552.26821   142338.28
+294                                     9,12,13-TriHOME_M-H_calc_neg 329.2333    1776 329.233465385971_356.277481268824 329.2335 356.27748  1.171860e-04  0.3559359   377683.556   2017.07980  2480632.11
+347                          Phenylbutyrylglutamine_M+Na-2H_calc_neg 313.1170    1483 313.119339873351_309.102673934784 313.1193 309.10267  2.366773e-03  7.5587514    81601.316   1075.51305   988147.50
+369                              5-acetamidovalerate_M+FA-H_calc_neg 204.0877    1131  204.08581421585_147.878280455237 204.0858 147.87828 -1.930084e-03 -9.4571291   261014.889   3553.23749   785972.02
+370                          N-Acetylaminooctanoic acid_M-H_calc_neg 200.1292    1431  200.12966858107_296.491593236192 200.1297 296.49159  4.510811e-04  2.2539491    26978.437    201.48392   194104.36
+373            4-Hydroxy-3-methoxy-cinnamoylglycine_M-H2O-H_calc_neg 232.0610    1355  232.05957030168_272.977590304261 232.0596 272.97759 -1.412198e-03 -6.0854621    67284.110    216.79651   343907.21
+387  4-Hydroxy-(3',4'-dihydroxyphenyl)-valeric acid_M-H2O-H_calc_neg 207.0657    1371 207.066285731591_281.340637007328 207.0663 281.34064  5.521316e-04  2.6664556     6114.541    626.76286    34039.62
+447                                              HPHPA_M+Cl_calc_neg 217.0273    1106 217.029070341375_121.857868252532 217.0291 121.85787  1.759541e-03  8.1074652    49939.977    744.80709   666646.34
+450                            Beta-hydroxybutyric acid_M-H_calc_neg 103.0401    1085 103.040229567956_104.062475522537 103.0402 104.06248  1.614680e-04  1.5670405  1396873.631  32049.57698  6561593.79
+475                                       Threoninyl-Histidine_mzPos 257.1363    1290 257.135768480639_261.922737228372 257.1358 261.92274 -5.315194e-04 -2.0670724   316802.965  51012.97343  2112763.25
+480                                           Prostaglandin E2_mzPos 353.2269    1915 353.229685161505_359.480923853321 353.2297 359.48092  2.785162e-03  7.8849077   293407.015  35553.67256  1934321.62
+484                                    LysoPC(20:3(5Z,8Z,11Z))_mzPos 546.3512    3806 546.353056122932_455.007986261504 546.3531 455.00799  1.856123e-03  3.3973073  1098195.928   7648.66486  6760995.51
+530                                        arginine_M-H2O+H_calc_pos 191.1155    1123 191.115087359517_222.336554703465 191.1151 222.33655 -3.883405e-04 -2.0319677    25357.663     48.68407   319082.36
+537                                              valine_M+H_calc_pos 118.0863     921  118.08638115807_177.661547411149 118.0864 177.66155  1.265581e-04  1.0717426  1758586.267 258909.74565  9123772.08
+553                         symmetric dimethylarginine _M+K_calc_pos 241.1061    1166  241.10428975129_233.184137827841 241.1043 233.18414 -1.844049e-03 -7.6482862    64891.834   1701.00420   858421.03
+597                                Aspartyl-Glycine_M-H2O+H_calc_pos 207.0628    1326 207.064792802287_267.803725067946 207.0648 267.80373  2.021402e-03  9.7622681    58749.848   7599.00382   180651.45
+602                           Asparaginyl-Threonine_M-H2O+H_calc_pos 250.1050     915 250.105990976834_176.287654369105 250.1060 176.28765  1.020377e-03  4.0797943    12754.385    840.14684   248003.57
+645                           Lysyl-Gamma-glutamate_M-H2O+H_calc_pos 291.1679    1411  291.16702843959_288.816746674702 291.1670 288.81675 -8.767604e-04 -3.0111849    11150.229    393.10719   269731.36
+721                                           13-OxoODE_M+H_calc_pos 295.2268    1913 295.226422340185_359.297736206068 295.2264 359.29774 -3.484598e-04 -1.1803124   238595.292  90492.95046   849176.81
+901                                   Indoleacetic acid_M+H_calc_pos 176.0706    1288  176.070366774539_261.33589058715 176.0704 261.33589 -2.377255e-04 -1.3501712    85084.097   4120.47143   396968.84
+918                                  N-Heptanoylglycine_M+H_calc_pos 188.1281    1408  188.129455375276_287.53603641963 188.1295 287.53604  1.335975e-03  7.1014120   346025.996 114702.84465  1902059.71
+1005                              PE(p-16:0/20:4)_M+CH3OH+H_calc_pos 756.5538    4538 756.550755665932_535.359185784755 756.5508 535.35919 -3.023534e-03 -3.9964562   185376.339   1891.53163   358034.10
+1007                                PE(p-16:0/20:4)_M+ACN+H_calc_pos 765.5541    4202 765.554829764585_510.249462688033 765.5548 510.24946  7.165646e-04  0.9360078   114472.311   5173.91636   302995.26
+            pRand        FC    FCGeom   fdrRand        pCLR    fdrCLR                  OR
+1    0.0334527763 1.0592060 1.0603475 0.6949853 0.020175906 0.8187996 1.158 (1.023-1.311)
+7    0.0203466974 1.0230812 1.0312292 0.6949853 0.033623602 0.8356574 1.177 (1.013-1.368)
+13   0.0193571327 1.0500062 1.0610993 0.6949853 0.032963668 0.8356574 1.145 (1.011-1.297)
+26   0.0338309962 1.0655556 1.0653116 0.6949853 0.047900752 0.8356574 1.129 (1.001-1.272)
+46   0.0023537670 1.0907000 1.0692030 0.5767157 0.002476713 0.6113347 1.208 (1.069-1.366)
+73   0.0191075118 1.0213968 1.0178768 0.6949853 0.046992609 0.8356574 1.154 (1.002-1.329)
+81   0.0762392443 1.0359180 1.0156336 0.7895788 0.048689734 0.8356574 1.131 (1.001-1.278)
+101  0.0122185277 1.1654134 1.1090026 0.6949853 0.015849506 0.7933320 1.212 (1.037-1.416)
+132  0.0043987494 1.0349366 1.0403152 0.6325402 0.005142274 0.7877951 1.301 (1.082-1.564)
+139  0.0004020921 1.0803114 1.0653427 0.2891042 0.002550770 0.6113347 1.226 (1.074-1.399)
+151  0.0042318713 1.0478285 1.0544622 0.6325402 0.002021831 0.6113347 1.244 (1.083-1.429)
+164  0.0262422121 0.9405778 0.9631108 0.6949853 0.009888686 0.7899962 0.853 (0.756-0.962)
+203  0.0320787389 1.0955348 1.0568243 0.6949853 0.028670216 0.8356574 1.157 (1.015-1.318)
+244  0.0255784585 1.0159898 1.0137806 0.6949853 0.044621522 0.8356574 1.143 (1.003-1.302)
+281  0.0146012461 0.9690857 0.9758394 0.6949853 0.049441864 0.8356574 0.885 (0.783-1.000)
+294  0.0084371763 1.0973568 1.0723902 0.6949853 0.005908334 0.7877951 1.238 (1.063-1.441)
+347  0.0141539483 1.0998814 1.0588430 0.6949853 0.015032748 0.7933320 1.181 (1.033-1.350)
+369  0.0586004004 1.0378311 1.0309153 0.7895788 0.032846574 0.8356574 1.146 (1.011-1.298)
+370  0.0327076723 1.0703483 1.0599580 0.6949853 0.013887742 0.7933320 1.169 (1.032-1.324)
+373  0.0080449883 1.0814921 1.0805144 0.6949853 0.027558658 0.8356574 1.143 (1.015-1.288)
+387  0.0131496128 1.0474704 1.0514713 0.6949853 0.019009265 0.8187996 1.204 (1.031-1.405)
+447  0.0256760852 1.0999135 1.0737525 0.6949853 0.030473370 0.8356574 1.194 (1.017-1.403)
+450  0.0377710032 1.0521949 1.0359592 0.7146671 0.036181607 0.8356574 1.142 (1.009-1.293)
+475  0.0530404154 0.9634457 0.9791856 0.7782869 0.048490793 0.8356574 0.830 (0.690-0.999)
+480  0.0157335429 1.0895609 1.0582431 0.6949853 0.012263982 0.7933320 1.199 (1.040-1.383)
+484  0.0332327046 1.0579195 1.0328055 0.6949853 0.042048095 0.8356574 1.165 (1.005-1.349)
+530  0.0450508063 0.8810315 0.9648435 0.7198118 0.044170719 0.8356574 0.804 (0.650-0.994)
+537  0.0110889527 1.0445956 1.0318733 0.6949853 0.014261974 0.7933320 1.196 (1.036-1.380)
+553  0.0412755049 0.9522729 0.9967573 0.7198118 0.045071627 0.8356574 0.685 (0.473-0.992)
+597  0.0169404643 0.9487314 0.9668093 0.6949853 0.008637369 0.7877951 0.851 (0.755-0.960)
+602  0.0109436770 0.8756516 0.9741938 0.6949853 0.008765453 0.7877951 0.719 (0.562-0.920)
+645  0.0240506949 0.8782821 0.9585463 0.6949853 0.021358177 0.8187996 0.776 (0.625-0.963)
+721  0.0240850422 1.0362167 1.0245938 0.6949853 0.016550738 0.7933320 1.255 (1.042-1.511)
+901  0.0229166198 1.0574888 1.0616420 0.6949853 0.035702810 0.8356574 1.134 (1.008-1.276)
+918  0.0785584313 1.0196183 1.0182461 0.7895788 0.043856572 0.8356574 1.185 (1.005-1.397)
+1005 0.0024063244 0.9763012 0.9662186 0.5767157 0.006709501 0.7877951 0.828 (0.722-0.949)
+1007 0.0122872953 0.9542291 0.9485376 0.6949853 0.021637263 0.8187996 0.864 (0.763-0.979)
